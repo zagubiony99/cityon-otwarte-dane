@@ -1,0 +1,3789 @@
+{
+  "warszawa": {
+    "mianownik": "Warszawa",
+    "dopelniacz": "Warszawy",
+    "miejscownik": "Warszawie",
+    "biernik": "Warszawę",
+    "narzednik": "Warszawą"
+  },
+  "krakow": {
+    "mianownik": "Kraków",
+    "dopelniacz": "Krakowa",
+    "miejscownik": "Krakowie",
+    "biernik": "Kraków",
+    "narzednik": "Krakowem"
+  },
+  "wroclaw": {
+    "mianownik": "Wrocław",
+    "dopelniacz": "Wrocławia",
+    "miejscownik": "Wrocławiu",
+    "biernik": "Wrocław",
+    "narzednik": "Wrocławiem"
+  },
+  "lodz": {
+    "mianownik": "Łódź",
+    "dopelniacz": "Łodzi",
+    "miejscownik": "Łodzi",
+    "biernik": "Łódź",
+    "narzednik": "Łodzią"
+  },
+  "katowice": {
+    "mianownik": "Katowice",
+    "dopelniacz": "Katowic",
+    "miejscownik": "Katowicach",
+    "biernik": "Katowice",
+    "narzednik": "Katowicami"
+  },
+  "szczecin": {
+    "mianownik": "Szczecin",
+    "dopelniacz": "Szczecina",
+    "miejscownik": "Szczecinie",
+    "biernik": "Szczecin",
+    "narzednik": "Szczecinem"
+  },
+  "lublin": {
+    "mianownik": "Lublin",
+    "dopelniacz": "Lublina",
+    "miejscownik": "Lublinie",
+    "biernik": "Lublin",
+    "narzednik": "Lublinem"
+  },
+  "bydgoszcz": {
+    "mianownik": "Bydgoszcz",
+    "dopelniacz": "Bydgoszczy",
+    "miejscownik": "Bydgoszczy",
+    "biernik": "Bydgoszcz",
+    "narzednik": "Bydgoszczą"
+  },
+  "bialystok": {
+    "mianownik": "Białystok",
+    "dopelniacz": "Białegostoku",
+    "miejscownik": "Białymstoku",
+    "biernik": "Białystok",
+    "narzednik": "Białymstokiem"
+  },
+  "rzeszow": {
+    "mianownik": "Rzeszów",
+    "dopelniacz": "Rzeszowa",
+    "miejscownik": "Rzeszowie",
+    "biernik": "Rzeszów",
+    "narzednik": "Rzeszowem"
+  },
+  "torun": {
+    "mianownik": "Toruń",
+    "dopelniacz": "Torunia",
+    "miejscownik": "Toruniu",
+    "biernik": "Toruń",
+    "narzednik": "Toruniem"
+  },
+  "kielce": {
+    "mianownik": "Kielce",
+    "dopelniacz": "Kielc",
+    "miejscownik": "Kielcach",
+    "biernik": "Kielce",
+    "narzednik": "Kielcami"
+  },
+  "czestochowa": {
+    "mianownik": "Częstochowa",
+    "dopelniacz": "Częstochowy",
+    "miejscownik": "Częstochowie",
+    "biernik": "Częstochowę",
+    "narzednik": "Częstochową"
+  },
+  "gliwice": {
+    "mianownik": "Gliwice",
+    "dopelniacz": "Gliwic",
+    "miejscownik": "Gliwicach",
+    "biernik": "Gliwice",
+    "narzednik": "Gliwicami"
+  },
+  "olsztyn": {
+    "mianownik": "Olsztyn",
+    "dopelniacz": "Olsztyna",
+    "miejscownik": "Olsztynie",
+    "biernik": "Olsztyn",
+    "narzednik": "Olsztynem"
+  },
+  "poznan": {
+    "mianownik": "Poznań",
+    "dopelniacz": "Poznania",
+    "miejscownik": "Poznaniu",
+    "biernik": "Poznań",
+    "narzednik": "Poznaniem"
+  },
+  "radom": {
+    "mianownik": "Radom",
+    "dopelniacz": "Radomia",
+    "miejscownik": "Radomiu",
+    "biernik": "Radom",
+    "narzednik": "Radomiem"
+  },
+  "sosnowiec": {
+    "mianownik": "Sosnowiec",
+    "dopelniacz": "Sosnowca",
+    "miejscownik": "Sosnowcu",
+    "biernik": "Sosnowiec",
+    "narzednik": "Sosnowcem"
+  },
+  "zielona-gora": {
+    "mianownik": "Zielona Góra",
+    "dopelniacz": "Zielonej Góry",
+    "miejscownik": "Zielonej Górze",
+    "biernik": "Zieloną Górę",
+    "narzednik": "Zieloną Górą"
+  },
+  "bielsko-biala": {
+    "mianownik": "Bielsko-Biała",
+    "dopelniacz": "Bielska-Białej",
+    "miejscownik": "Bielsku-Białej",
+    "biernik": "Bielsko-Białą",
+    "narzednik": "Bielskieem-Białą"
+  },
+  "gdansk": {
+    "mianownik": "Gdańsk",
+    "dopelniacz": "Gdańska",
+    "miejscownik": "Gdańsku",
+    "biernik": "Gdańsk",
+    "narzednik": "Gdańskiem"
+  },
+  "rybnik": {
+    "mianownik": "Rybnik",
+    "dopelniacz": "Rybnika",
+    "miejscownik": "Rybniku",
+    "biernik": "Rybnik",
+    "narzednik": "Rybnikiem"
+  },
+  "tarnow": {
+    "mianownik": "Tarnów",
+    "dopelniacz": "Tarnowa",
+    "miejscownik": "Tarnowie",
+    "biernik": "Tarnów",
+    "narzednik": "Tarnowem"
+  },
+  "bytom": {
+    "mianownik": "Bytom",
+    "dopelniacz": "Bytomia",
+    "miejscownik": "Bytomiu",
+    "biernik": "Bytom",
+    "narzednik": "Bytomiem"
+  },
+  "kalisz": {
+    "mianownik": "Kalisz",
+    "dopelniacz": "Kalisza",
+    "miejscownik": "Kaliszu",
+    "biernik": "Kalisz",
+    "narzednik": "Kaliszem"
+  },
+  "tychy": {
+    "mianownik": "Tychy",
+    "dopelniacz": "Tychów",
+    "miejscownik": "Tychach",
+    "biernik": "Tychy",
+    "narzednik": "Tychami"
+  },
+  "zabrze": {
+    "mianownik": "Zabrze",
+    "dopelniacz": "Zabrza",
+    "miejscownik": "Zabrzu",
+    "biernik": "Zabrze",
+    "narzednik": "Zabrzem"
+  },
+  "plock": {
+    "mianownik": "Płock",
+    "dopelniacz": "Płocka",
+    "miejscownik": "Płocku",
+    "biernik": "Płock",
+    "narzednik": "Płockiem"
+  },
+  "koszalin": {
+    "mianownik": "Koszalin",
+    "dopelniacz": "Koszalina",
+    "miejscownik": "Koszalinie",
+    "biernik": "Koszalin",
+    "narzednik": "Koszalinem"
+  },
+  "gorzow-wielkopolski": {
+    "mianownik": "Gorzów Wielkopolski",
+    "dopelniacz": "Gorzowa Wielkopolskiego",
+    "miejscownik": "Gorzowie Wielkopolskim",
+    "biernik": "Gorzów Wielkopolski",
+    "narzednik": "Gorzowem Wielkopolskim"
+  },
+  "nowy-sacz": {
+    "mianownik": "Nowy Sącz",
+    "dopelniacz": "Nowego Sącza",
+    "miejscownik": "Nowym Sączu",
+    "biernik": "Nowy Sącz",
+    "narzednik": "Nowym Sączem"
+  },
+  "chorzow": {
+    "mianownik": "Chorzów",
+    "dopelniacz": "Chorzowa",
+    "miejscownik": "Chorzowie",
+    "biernik": "Chorzów",
+    "narzednik": "Chorzowem"
+  },
+  "legnica": {
+    "mianownik": "Legnica",
+    "dopelniacz": "Legnicy",
+    "miejscownik": "Legnicy",
+    "biernik": "Legnicę",
+    "narzednik": "Legnicą"
+  },
+  "elblag": {
+    "mianownik": "Elbląg",
+    "dopelniacz": "Elbląga",
+    "miejscownik": "Elblągu",
+    "biernik": "Elbląg",
+    "narzednik": "Elblągiem"
+  },
+  "slupsk": {
+    "mianownik": "Słupsk",
+    "dopelniacz": "Słupska",
+    "miejscownik": "Słupsku",
+    "biernik": "Słupsk",
+    "narzednik": "Słupskiem"
+  },
+  "wloclawek": {
+    "mianownik": "Włocławek",
+    "dopelniacz": "Włocławka",
+    "miejscownik": "Włocławku",
+    "biernik": "Włocławek",
+    "narzednik": "Włocławkiem"
+  },
+  "jelenia-gora": {
+    "mianownik": "Jelenia Góra",
+    "dopelniacz": "Jeleniej Góry",
+    "miejscownik": "Jeleniej Górze",
+    "biernik": "Jelenią Górę",
+    "narzednik": "Jelenią Górą"
+  },
+  "konin": {
+    "mianownik": "Konin",
+    "dopelniacz": "Konina",
+    "miejscownik": "Koninie",
+    "biernik": "Konin",
+    "narzednik": "Koninem"
+  },
+  "ostrow-wielkopolski": {
+    "mianownik": "Ostrów Wielkopolski",
+    "dopelniacz": "Ostrowa Wielkopolskiego",
+    "miejscownik": "Ostrowie Wielkopolskim",
+    "biernik": "Ostrów Wielkopolski",
+    "narzednik": "Ostrowem Wielkopolskim"
+  },
+  "dabrowa-gornicza": {
+    "mianownik": "Dąbrowa Górnicza",
+    "dopelniacz": "Dąbrowy Górniczej",
+    "miejscownik": "Dąbrowie Górniczej",
+    "biernik": "Dąbrowę Górniczą",
+    "narzednik": "Dąbrową Górniczą"
+  },
+  "leszno": {
+    "mianownik": "Leszno",
+    "dopelniacz": "Leszna",
+    "miejscownik": "Lesznie",
+    "biernik": "Leszno",
+    "narzednik": "Lesznem"
+  },
+  "siedlce": {
+    "mianownik": "Siedlce",
+    "dopelniacz": "Siedlec",
+    "miejscownik": "Siedlcach",
+    "biernik": "Siedlce",
+    "narzednik": "Siedlcami"
+  },
+  "gdynia": {
+    "mianownik": "Gdynia",
+    "dopelniacz": "Gdyni",
+    "miejscownik": "Gdyni",
+    "biernik": "Gdynię",
+    "narzednik": "Gdynią"
+  },
+  "walbrzych": {
+    "mianownik": "Wałbrzych",
+    "dopelniacz": "Wałbrzycha",
+    "miejscownik": "Wałbrzychu",
+    "biernik": "Wałbrzych",
+    "narzednik": "Wałbrzychem"
+  },
+  "piaseczno": {
+    "mianownik": "Piaseczno",
+    "dopelniacz": "Piaseczna",
+    "miejscownik": "Piasecznie",
+    "biernik": "Piaseczno",
+    "narzednik": "Piasecznem"
+  },
+  "ruda-slaska": {
+    "mianownik": "Ruda Śląska",
+    "dopelniacz": "Rudy Śląskiej",
+    "miejscownik": "Rudzie Śląskiej",
+    "biernik": "Rudę Śląską",
+    "narzednik": "Rudą Śląską"
+  },
+  "pila": {
+    "mianownik": "Piła",
+    "dopelniacz": "Piły",
+    "miejscownik": "Pile",
+    "biernik": "Piłę",
+    "narzednik": "Piłą"
+  },
+  "zamosc": {
+    "mianownik": "Zamość",
+    "dopelniacz": "Zamościa",
+    "miejscownik": "Zamościu",
+    "biernik": "Zamość",
+    "narzednik": "Zamościem"
+  },
+  "gniezno": {
+    "mianownik": "Gniezno",
+    "dopelniacz": "Gniezna",
+    "miejscownik": "Gnieźnie",
+    "biernik": "Gniezno",
+    "narzednik": "Gnieznem"
+  },
+  "tarnowskie-gory": {
+    "mianownik": "Tarnowskie Góry",
+    "dopelniacz": "Tarnowskich Gór",
+    "miejscownik": "Tarnowskich Górach",
+    "biernik": "Tarnowskie Góry",
+    "narzednik": "Tarnowskimi Górami"
+  },
+  "grudziadz": {
+    "mianownik": "Grudziądz",
+    "dopelniacz": "Grudziądza",
+    "miejscownik": "Grudziądzu",
+    "biernik": "Grudziądz",
+    "narzednik": "Grudziądzem"
+  },
+  "sopot": {
+    "mianownik": "Sopot",
+    "dopelniacz": "Sopotu",
+    "miejscownik": "Sopocie",
+    "biernik": "Sopot",
+    "narzednik": "Sopotem"
+  },
+  "piotrkow-trybunalski": {
+    "mianownik": "Piotrków Trybunalski",
+    "dopelniacz": "Piotrkowa Trybunalskiego",
+    "miejscownik": "Piotrkowie Trybunalskim",
+    "biernik": "Piotrków Trybunalski",
+    "narzednik": "Piotrkowem Trybunalskim"
+  },
+  "pabianice": {
+    "mianownik": "Pabianice",
+    "dopelniacz": "Pabianic",
+    "miejscownik": "Pabianicach",
+    "biernik": "Pabianice",
+    "narzednik": "Pabianicami"
+  },
+  "inowroclaw": {
+    "mianownik": "Inowrocław",
+    "dopelniacz": "Inowrocławia",
+    "miejscownik": "Inowrocławiu",
+    "biernik": "Inowrocław",
+    "narzednik": "Inowrocławiem"
+  },
+  "krosno": {
+    "mianownik": "Krosno",
+    "dopelniacz": "Krosna",
+    "miejscownik": "Krośnie",
+    "biernik": "Krosno",
+    "narzednik": "Krosnem"
+  },
+  "zakopane": {
+    "mianownik": "Zakopane",
+    "dopelniacz": "Zakopanego",
+    "miejscownik": "Zakopanem",
+    "biernik": "Zakopane",
+    "narzednik": "Zakopanym"
+  },
+  "lubin": {
+    "mianownik": "Lubin",
+    "dopelniacz": "Lubina",
+    "miejscownik": "Lubinie",
+    "biernik": "Lubin",
+    "narzednik": "Lubinem"
+  },
+  "swidnica": {
+    "mianownik": "Świdnica",
+    "dopelniacz": "Świdnicy",
+    "miejscownik": "Świdnicy",
+    "biernik": "Świdnicę",
+    "narzednik": "Świdnicą"
+  },
+  "mielec": {
+    "mianownik": "Mielec",
+    "dopelniacz": "Mielca",
+    "miejscownik": "Mielcu",
+    "biernik": "Mielec",
+    "narzednik": "Mielcem"
+  },
+  "suwalki": {
+    "mianownik": "Suwałki",
+    "dopelniacz": "Suwałk",
+    "miejscownik": "Suwałkach",
+    "biernik": "Suwałki",
+    "narzednik": "Suwałkami"
+  },
+  "jaworzno": {
+    "mianownik": "Jaworzno",
+    "dopelniacz": "Jaworzna",
+    "miejscownik": "Jaworznie",
+    "biernik": "Jaworzno",
+    "narzednik": "Jaworznem"
+  },
+  "lomza": {
+    "mianownik": "Łomża",
+    "dopelniacz": "Łomży",
+    "miejscownik": "Łomży",
+    "biernik": "Łomżę",
+    "narzednik": "Łomżą"
+  },
+  "chelm": {
+    "mianownik": "Chełm",
+    "dopelniacz": "Chełma",
+    "miejscownik": "Chełmie",
+    "biernik": "Chełm",
+    "narzednik": "Chełmem"
+  },
+  "pruszkow": {
+    "mianownik": "Pruszków",
+    "dopelniacz": "Pruszkowa",
+    "miejscownik": "Pruszkowie",
+    "biernik": "Pruszków",
+    "narzednik": "Pruszkowem"
+  },
+  "nowy-targ": {
+    "mianownik": "Nowy Targ",
+    "dopelniacz": "Nowego Targu",
+    "miejscownik": "Nowym Targu",
+    "biernik": "Nowy Targ",
+    "narzednik": "Nowym Targiem"
+  },
+  "przemysl": {
+    "mianownik": "Przemyśl",
+    "dopelniacz": "Przemyśla",
+    "miejscownik": "Przemyślu",
+    "biernik": "Przemyśl",
+    "narzednik": "Przemyślem"
+  },
+  "debica": {
+    "mianownik": "Dębica",
+    "dopelniacz": "Dębicy",
+    "miejscownik": "Dębicy",
+    "biernik": "Dębicę",
+    "narzednik": "Dębicą"
+  },
+  "myslowice": {
+    "mianownik": "Mysłowice",
+    "dopelniacz": "Mysłowic",
+    "miejscownik": "Mysłowicach",
+    "biernik": "Mysłowice",
+    "narzednik": "Mysłowicami"
+  },
+  "biala-podlaska": {
+    "mianownik": "Biała Podlaska",
+    "dopelniacz": "Białej Podlaskiej",
+    "miejscownik": "Białej Podlaskiej",
+    "biernik": "Białą Podlaską",
+    "narzednik": "Białą Podlaską"
+  },
+  "zgierz": {
+    "mianownik": "Zgierz",
+    "dopelniacz": "Zgierza",
+    "miejscownik": "Zgierzu",
+    "biernik": "Zgierz",
+    "narzednik": "Zgierzem"
+  },
+  "kolobrzeg": {
+    "mianownik": "Kołobrzeg",
+    "dopelniacz": "Kołobrzegu",
+    "miejscownik": "Kołobrzegu",
+    "biernik": "Kołobrzeg",
+    "narzednik": "Kołobrzegiem"
+  },
+  "jastrzebie-zdroj": {
+    "mianownik": "Jastrzębie-Zdrój",
+    "dopelniacz": "Jastrzębia-Zdroju",
+    "miejscownik": "Jastrzębiu-Zdroju",
+    "biernik": "Jastrzębie-Zdrój",
+    "narzednik": "Jastrzębiem-Zdrojem"
+  },
+  "rumia": {
+    "mianownik": "Rumia",
+    "dopelniacz": "Rumi",
+    "miejscownik": "Rumi",
+    "biernik": "Rumię",
+    "narzednik": "Rumią"
+  },
+  "raciborz": {
+    "mianownik": "Racibórz",
+    "dopelniacz": "Raciborza",
+    "miejscownik": "Raciborzu",
+    "biernik": "Racibórz",
+    "narzednik": "Raciborzem"
+  },
+  "legionowo": {
+    "mianownik": "Legionowo",
+    "dopelniacz": "Legionowa",
+    "miejscownik": "Legionowie",
+    "biernik": "Legionowo",
+    "narzednik": "Legionowem"
+  },
+  "elk": {
+    "mianownik": "Ełk",
+    "dopelniacz": "Ełku",
+    "miejscownik": "Ełku",
+    "biernik": "Ełk",
+    "narzednik": "Ełkiem"
+  },
+  "opole": {
+    "mianownik": "Opole",
+    "dopelniacz": "Opola",
+    "miejscownik": "Opolu",
+    "biernik": "Opole",
+    "narzednik": "Opolem"
+  },
+  "zory": {
+    "mianownik": "Żory",
+    "dopelniacz": "Żor",
+    "miejscownik": "Żorach",
+    "biernik": "Żory",
+    "narzednik": "Żorami"
+  },
+  "glogow": {
+    "mianownik": "Głogów",
+    "dopelniacz": "Głogowa",
+    "miejscownik": "Głogowie",
+    "biernik": "Głogów",
+    "narzednik": "Głogowem"
+  },
+  "stargard": {
+    "mianownik": "Stargard",
+    "dopelniacz": "Stargardu",
+    "miejscownik": "Stargardzie",
+    "biernik": "Stargard",
+    "narzednik": "Stargardem"
+  },
+  "radomsko": {
+    "mianownik": "Radomsko",
+    "dopelniacz": "Radomska",
+    "miejscownik": "Radomsku",
+    "biernik": "Radomsko",
+    "narzednik": "Radomskiem"
+  },
+  "pulawy": {
+    "mianownik": "Puławy",
+    "dopelniacz": "Puław",
+    "miejscownik": "Puławach",
+    "biernik": "Puławy",
+    "narzednik": "Puławami"
+  },
+  "skierniewice": {
+    "mianownik": "Skierniewice",
+    "dopelniacz": "Skierniewic",
+    "miejscownik": "Skierniewicach",
+    "biernik": "Skierniewice",
+    "narzednik": "Skierniewicami"
+  },
+  "tczew": {
+    "mianownik": "Tczew",
+    "dopelniacz": "Tczewa",
+    "miejscownik": "Tczewie",
+    "biernik": "Tczew",
+    "narzednik": "Tczewem"
+  },
+  "zywiec": {
+    "mianownik": "Żywiec",
+    "dopelniacz": "Żywca",
+    "miejscownik": "Żywcu",
+    "biernik": "Żywiec",
+    "narzednik": "Żywcem"
+  },
+  "belchatow": {
+    "mianownik": "Bełchatów",
+    "dopelniacz": "Bełchatowa",
+    "miejscownik": "Bełchatowie",
+    "biernik": "Bełchatów",
+    "narzednik": "Bełchatowem"
+  },
+  "mikolow": {
+    "mianownik": "Mikołów",
+    "dopelniacz": "Mikołowa",
+    "miejscownik": "Mikołowie",
+    "biernik": "Mikołów",
+    "narzednik": "Mikołowem"
+  },
+  "tomaszow-mazowiecki": {
+    "mianownik": "Tomaszów Mazowiecki",
+    "dopelniacz": "Tomaszowa Mazowieckiego",
+    "miejscownik": "Tomaszowie Mazowieckim",
+    "biernik": "Tomaszów Mazowiecki",
+    "narzednik": "Tomaszowem Mazowieckim"
+  },
+  "stalowa-wola": {
+    "mianownik": "Stalowa Wola",
+    "dopelniacz": "Stalowej Woli",
+    "miejscownik": "Stalowej Woli",
+    "biernik": "Stalową Wolę",
+    "narzednik": "Stalową Wolą"
+  },
+  "nysa": {
+    "mianownik": "Nysa",
+    "dopelniacz": "Nysy",
+    "miejscownik": "Nysie",
+    "biernik": "Nysę",
+    "narzednik": "Nysą"
+  },
+  "wejherowo": {
+    "mianownik": "Wejherowo",
+    "dopelniacz": "Wejherowa",
+    "miejscownik": "Wejherowie",
+    "biernik": "Wejherowo",
+    "narzednik": "Wejherowem"
+  },
+  "bedzin": {
+    "mianownik": "Będzin",
+    "dopelniacz": "Będzina",
+    "miejscownik": "Będzinie",
+    "biernik": "Będzin",
+    "narzednik": "Będzinem"
+  },
+  "kedzierzyn-kozle": {
+    "mianownik": "Kędzierzyn-Koźle",
+    "dopelniacz": "Kędzierzyna-Koźla",
+    "miejscownik": "Kędzierzynie-Koźlu",
+    "biernik": "Kędzierzyn-Koźle",
+    "narzednik": "Kędzierzynem-Koźlem"
+  },
+  "zawiercie": {
+    "mianownik": "Zawiercie",
+    "dopelniacz": "Zawiercia",
+    "miejscownik": "Zawierciu",
+    "biernik": "Zawiercie",
+    "narzednik": "Zawirciem"
+  },
+  "starogard-gdanski": {
+    "mianownik": "Starogard Gdański",
+    "dopelniacz": "Starogardu Gdańskiego",
+    "miejscownik": "Starogardzie Gdańskim",
+    "biernik": "Starogard Gdański",
+    "narzednik": "Starogardem Gdańskim"
+  },
+  "cieszyn": {
+    "mianownik": "Cieszyn",
+    "dopelniacz": "Cieszyna",
+    "miejscownik": "Cieszynie",
+    "biernik": "Cieszyn",
+    "narzednik": "Cieszynem"
+  },
+  "kutno": {
+    "mianownik": "Kutno",
+    "dopelniacz": "Kutna",
+    "miejscownik": "Kutnie",
+    "biernik": "Kutno",
+    "narzednik": "Kutnem"
+  },
+  "wieliczka": {
+    "mianownik": "Wieliczka",
+    "dopelniacz": "Wieliczki",
+    "miejscownik": "Wieliczce",
+    "biernik": "Wieliczkę",
+    "narzednik": "Wieliczką"
+  },
+  "chojnice": {
+    "mianownik": "Chojnice",
+    "dopelniacz": "Chojnic",
+    "miejscownik": "Chojnicach",
+    "biernik": "Chojnice",
+    "narzednik": "Chojnicami"
+  },
+  "otwock": {
+    "mianownik": "Otwock",
+    "dopelniacz": "Otwocka",
+    "miejscownik": "Otwocku",
+    "biernik": "Otwock",
+    "narzednik": "Otwockiem"
+  },
+  "sieradz": {
+    "mianownik": "Sieradz",
+    "dopelniacz": "Sieradza",
+    "miejscownik": "Sieradzu",
+    "biernik": "Sieradz",
+    "narzednik": "Sieradzem"
+  },
+  "olkusz": {
+    "mianownik": "Olkusz",
+    "dopelniacz": "Olkusza",
+    "miejscownik": "Olkuszu",
+    "biernik": "Olkusz",
+    "narzednik": "Olkuszem"
+  },
+  "bochnia": {
+    "mianownik": "Bochnia",
+    "dopelniacz": "Bochni",
+    "miejscownik": "Bochni",
+    "biernik": "Bochnię",
+    "narzednik": "Bochnią"
+  },
+  "jaslo": {
+    "mianownik": "Jasło",
+    "dopelniacz": "Jasła",
+    "miejscownik": "Jaśle",
+    "biernik": "Jasło",
+    "narzednik": "Jasłem"
+  },
+  "oswiecim": {
+    "mianownik": "Oświęcim",
+    "dopelniacz": "Oświęcimia",
+    "miejscownik": "Oświęcimiu",
+    "biernik": "Oświęcim",
+    "narzednik": "Oświęcimiem"
+  },
+  "minsk-mazowiecki": {
+    "mianownik": "Mińsk Mazowiecki",
+    "dopelniacz": "Mińska Mazowieckiego",
+    "miejscownik": "Mińsku Mazowieckim",
+    "biernik": "Mińsk Mazowiecki",
+    "narzednik": "Mińskiem Mazowieckim"
+  },
+  "boleslawiec": {
+    "mianownik": "Bolesławiec",
+    "dopelniacz": "Bolesławca",
+    "miejscownik": "Bolesławcu",
+    "biernik": "Bolesławiec",
+    "narzednik": "Bolesławcem"
+  },
+  "ostroleka": {
+    "mianownik": "Ostrołęka",
+    "dopelniacz": "Ostrołęki",
+    "miejscownik": "Ostrołęce",
+    "biernik": "Ostrołękę",
+    "narzednik": "Ostrołęką"
+  },
+  "swarzedz": {
+    "mianownik": "Swarzędz",
+    "dopelniacz": "Swarzędza",
+    "miejscownik": "Swarzędzu",
+    "biernik": "Swarzędz",
+    "narzednik": "Swarzędzem"
+  },
+  "pruszcz-gdanski": {
+    "mianownik": "Pruszcz Gdański",
+    "dopelniacz": "Pruszcza Gdańskiego",
+    "miejscownik": "Pruszczu Gdańskim",
+    "biernik": "Pruszcz Gdański",
+    "narzednik": "Pruszczem Gdańskim"
+  },
+  "tarnobrzeg": {
+    "mianownik": "Tarnobrzeg",
+    "dopelniacz": "Tarnobrzegu",
+    "miejscownik": "Tarnobrzegu",
+    "biernik": "Tarnobrzeg",
+    "narzednik": "Tarnobrzegiem"
+  },
+  "grodzisk-mazowiecki": {
+    "mianownik": "Grodzisk Mazowiecki",
+    "dopelniacz": "Grodziska Mazowieckiego",
+    "miejscownik": "Grodzisku Mazowieckim",
+    "biernik": "Grodzisk Mazowiecki",
+    "narzednik": "Grodiskiem Mazowieckim"
+  },
+  "zdunska-wola": {
+    "mianownik": "Zduńska Wola",
+    "dopelniacz": "Zduńskiej Woli",
+    "miejscownik": "Zduńskiej Woli",
+    "biernik": "Zduńską Wolę",
+    "narzednik": "Zduńską Wolą"
+  },
+  "ciechanow": {
+    "mianownik": "Ciechanów",
+    "dopelniacz": "Ciechanowa",
+    "miejscownik": "Ciechanowie",
+    "biernik": "Ciechanów",
+    "narzednik": "Ciechanowem"
+  },
+  "wrzesnia": {
+    "mianownik": "Września",
+    "dopelniacz": "Września",
+    "miejscownik": "Wrześniu",
+    "biernik": "Wrzesień",
+    "narzednik": "Wrześniem"
+  },
+  "chrzanow": {
+    "mianownik": "Chrzanów",
+    "dopelniacz": "Chrzanowa",
+    "miejscownik": "Chrzanowie",
+    "biernik": "Chrzanów",
+    "narzednik": "Chrzanowem"
+  },
+  "myslenice": {
+    "mianownik": "Myślenice",
+    "dopelniacz": "Myślenic",
+    "miejscownik": "Myślenicach",
+    "biernik": "Myślenice",
+    "narzednik": "Myślenicami"
+  },
+  "wolomin": {
+    "mianownik": "Wołomin",
+    "dopelniacz": "Wołomina",
+    "miejscownik": "Wołominie",
+    "biernik": "Wołomin",
+    "narzednik": "Wołominem"
+  },
+  "wodzislaw-slaski": {
+    "mianownik": "Wodzisław Śląski",
+    "dopelniacz": "Wodzisławia Śląskiego",
+    "miejscownik": "Wodzisławiu Śląskim",
+    "biernik": "Wodzisław Śląski",
+    "narzednik": "Wodzisławiem Śląskim"
+  },
+  "pszczyna": {
+    "mianownik": "Pszczyna",
+    "dopelniacz": "Pszczyny",
+    "miejscownik": "Pszczynie",
+    "biernik": "Pszczynę",
+    "narzednik": "Pszczynią"
+  },
+  "sanok": {
+    "mianownik": "Sanok",
+    "dopelniacz": "Sanoka",
+    "miejscownik": "Sanoku",
+    "biernik": "Sanok",
+    "narzednik": "Sanokiem"
+  },
+  "lomianki": {
+    "mianownik": "Łomianki",
+    "dopelniacz": "Łomianek",
+    "miejscownik": "Łomiankach",
+    "biernik": "Łomianki",
+    "narzednik": "Łomiankami"
+  },
+  "starachowice": {
+    "mianownik": "Starachowice",
+    "dopelniacz": "Starachowic",
+    "miejscownik": "Starachowicach",
+    "biernik": "Starachowice",
+    "narzednik": "Starachowicami"
+  },
+  "olesnica": {
+    "mianownik": "Oleśnica",
+    "dopelniacz": "Oleśnicy",
+    "miejscownik": "Oleśnicy",
+    "biernik": "Oleśnicę",
+    "narzednik": "Oleśnicą"
+  },
+  "jaroslaw": {
+    "mianownik": "Jarosław",
+    "dopelniacz": "Jarosławia",
+    "miejscownik": "Jarosławiu",
+    "biernik": "Jarosław",
+    "narzednik": "Jarosławiem"
+  },
+  "gorlice": {
+    "mianownik": "Gorlice",
+    "dopelniacz": "Gorlic",
+    "miejscownik": "Gorlicach",
+    "biernik": "Gorlice",
+    "narzednik": "Gorlicami"
+  },
+  "olawa": {
+    "mianownik": "Oława",
+    "dopelniacz": "Oławy",
+    "miejscownik": "Oławie",
+    "biernik": "Oławę",
+    "narzednik": "Oławą"
+  },
+  "lubon": {
+    "mianownik": "Luboń",
+    "dopelniacz": "Lubonia",
+    "miejscownik": "Luboniu",
+    "biernik": "Luboń",
+    "narzednik": "Luboniem"
+  },
+  "wadowice": {
+    "mianownik": "Wadowice",
+    "dopelniacz": "Wadowic",
+    "miejscownik": "Wadowicach",
+    "biernik": "Wadowice",
+    "narzednik": "Wadowicami"
+  },
+  "zary": {
+    "mianownik": "Żary",
+    "dopelniacz": "Żar",
+    "miejscownik": "Żarach",
+    "biernik": "Żary",
+    "narzednik": "Żarami"
+  },
+  "kwidzyn": {
+    "mianownik": "Kwidzyn",
+    "dopelniacz": "Kwidzyna",
+    "miejscownik": "Kwidzynie",
+    "biernik": "Kwidzyn",
+    "narzednik": "Kwidzynem"
+  },
+  "nowa-sol": {
+    "mianownik": "Nowa Sól",
+    "dopelniacz": "Nowej Soli",
+    "miejscownik": "Nowej Soli",
+    "biernik": "Nową Sól",
+    "narzednik": "Nową Solą"
+  },
+  "klodzko": {
+    "mianownik": "Kłodzko",
+    "dopelniacz": "Kłodzka",
+    "miejscownik": "Kłodzku",
+    "biernik": "Kłodzko",
+    "narzednik": "Kłodzkiem"
+  },
+  "malbork": {
+    "mianownik": "Malbork",
+    "dopelniacz": "Malborka",
+    "miejscownik": "Malborku",
+    "biernik": "Malbork",
+    "narzednik": "Malborkiem"
+  },
+  "dzierzoniow": {
+    "mianownik": "Dzierżoniów",
+    "dopelniacz": "Dzierżoniowa",
+    "miejscownik": "Dzierżoniowie",
+    "biernik": "Dzierżoniów",
+    "narzednik": "Dzierżoniowem"
+  },
+  "skawina": {
+    "mianownik": "Skawina",
+    "dopelniacz": "Skawiny",
+    "miejscownik": "Skawinie",
+    "biernik": "Skawinę",
+    "narzednik": "Skawiną"
+  },
+  "piekary-slaskie": {
+    "mianownik": "Piekary Śląskie",
+    "dopelniacz": "Piekar Śląskich",
+    "miejscownik": "Piekarach Śląskich",
+    "biernik": "Piekary Śląskie",
+    "narzednik": "Piekarami Śląskimi"
+  },
+  "lebork": {
+    "mianownik": "Lębork",
+    "dopelniacz": "Lęborka",
+    "miejscownik": "Lęborku",
+    "biernik": "Lębork",
+    "narzednik": "Lęborkiem"
+  },
+  "krotoszyn": {
+    "mianownik": "Krotoszyn",
+    "dopelniacz": "Krotoszyna",
+    "miejscownik": "Krotoszynie",
+    "biernik": "Krotoszyn",
+    "narzednik": "Krotoszynem"
+  },
+  "turek": {
+    "mianownik": "Turek",
+    "dopelniacz": "Turku",
+    "miejscownik": "Turku",
+    "biernik": "Turek",
+    "narzednik": "Turkiem"
+  },
+  "brzeg": {
+    "mianownik": "Brzeg",
+    "dopelniacz": "Brzegu",
+    "miejscownik": "Brzegu",
+    "biernik": "Brzeg",
+    "narzednik": "Brzegiem"
+  },
+  "swinoujscie": {
+    "mianownik": "Świnoujście",
+    "dopelniacz": "Świnoujścia",
+    "miejscownik": "Świnoujściu",
+    "biernik": "Świnoujście",
+    "narzednik": "Świnoujściem"
+  },
+  "marki": {
+    "mianownik": "Marki",
+    "dopelniacz": "Marek",
+    "miejscownik": "Markach",
+    "biernik": "Marki",
+    "narzednik": "Markami"
+  },
+  "krasnik": {
+    "mianownik": "Kraśnik",
+    "dopelniacz": "Kraśnika",
+    "miejscownik": "Kraśniku",
+    "biernik": "Kraśnik",
+    "narzednik": "Kraśnikiem"
+  },
+  "czechowice-dziedzice": {
+    "mianownik": "Czechowice-Dziedzice",
+    "dopelniacz": "Czechowic-Dziedzic",
+    "miejscownik": "Czechowicach-Dziedzicach",
+    "biernik": "Czechowice-Dziedzice",
+    "narzednik": "Czechowicami-Dziedzicami"
+  },
+  "wielun": {
+    "mianownik": "Wieluń",
+    "dopelniacz": "Wielunia",
+    "miejscownik": "Wieluniu",
+    "biernik": "Wieluń",
+    "narzednik": "Wieluniem"
+  },
+  "sochaczew": {
+    "mianownik": "Sochaczew",
+    "dopelniacz": "Sochaczewa",
+    "miejscownik": "Sochaczewie",
+    "biernik": "Sochaczew",
+    "narzednik": "Sochaczewem"
+  },
+  "zgorzelec": {
+    "mianownik": "Zgorzelec",
+    "dopelniacz": "Zgorzelca",
+    "miejscownik": "Zgorzelcu",
+    "biernik": "Zgorzelec",
+    "narzednik": "Zgorzelcem"
+  },
+  "ilawa": {
+    "mianownik": "Iława",
+    "dopelniacz": "Iławy",
+    "miejscownik": "Iławie",
+    "biernik": "Iławę",
+    "narzednik": "Iławą"
+  },
+  "brodnica": {
+    "mianownik": "Brodnica",
+    "dopelniacz": "Brodnicy",
+    "miejscownik": "Brodnicy",
+    "biernik": "Brodnicę",
+    "narzednik": "Brodnicą"
+  },
+  "szczecinek": {
+    "mianownik": "Szczecinek",
+    "dopelniacz": "Szczecinka",
+    "miejscownik": "Szczecinku",
+    "biernik": "Szczecinek",
+    "narzednik": "Szczecinikiem"
+  },
+  "jarocin": {
+    "mianownik": "Jarocin",
+    "dopelniacz": "Jarocina",
+    "miejscownik": "Jarocinie",
+    "biernik": "Jarocin",
+    "narzednik": "Jarocinem"
+  },
+  "lukow": {
+    "mianownik": "Łuków",
+    "dopelniacz": "Łukowa",
+    "miejscownik": "Łukowie",
+    "biernik": "Łuków",
+    "narzednik": "Łukowem"
+  },
+  "srem": {
+    "mianownik": "Śrem",
+    "dopelniacz": "Śremu",
+    "miejscownik": "Śremie",
+    "biernik": "Śrem",
+    "narzednik": "Śremem"
+  },
+  "koscian": {
+    "mianownik": "Kościan",
+    "dopelniacz": "Kościana",
+    "miejscownik": "Kościanie",
+    "biernik": "Kościan",
+    "narzednik": "Kościanem"
+  },
+  "gizycko": {
+    "mianownik": "Giżycko",
+    "dopelniacz": "Giżycka",
+    "miejscownik": "Giżycku",
+    "biernik": "Giżycko",
+    "narzednik": "Giżyckiem"
+  },
+  "ostroda": {
+    "mianownik": "Ostróda",
+    "dopelniacz": "Ostródy",
+    "miejscownik": "Ostródzie",
+    "biernik": "Ostródę",
+    "narzednik": "Ostródą"
+  },
+  "zabki": {
+    "mianownik": "Ząbki",
+    "dopelniacz": "Ząbek",
+    "miejscownik": "Ząbkach",
+    "biernik": "Ząbki",
+    "narzednik": "Ząbkami"
+  },
+  "lowicz": {
+    "mianownik": "Łowicz",
+    "dopelniacz": "Łowicza",
+    "miejscownik": "Łowiczu",
+    "biernik": "Łowicz",
+    "narzednik": "Łowiczem"
+  },
+  "sandomierz": {
+    "mianownik": "Sandomierz",
+    "dopelniacz": "Sandomierza",
+    "miejscownik": "Sandomierzu",
+    "biernik": "Sandomierz",
+    "narzednik": "Sandomierzem"
+  },
+  "koscierzyna": {
+    "mianownik": "Kościerzyna",
+    "dopelniacz": "Kościerzyny",
+    "miejscownik": "Kościerzynie",
+    "biernik": "Kościerzynę",
+    "narzednik": "Kościerzyną"
+  },
+  "czeladz": {
+    "mianownik": "Czeladź",
+    "dopelniacz": "Czeladzi",
+    "miejscownik": "Czeladzi",
+    "biernik": "Czeladź",
+    "narzednik": "Czeladzią"
+  },
+  "myszkow": {
+    "mianownik": "Myszków",
+    "dopelniacz": "Myszkowa",
+    "miejscownik": "Myszkowie",
+    "biernik": "Myszków",
+    "narzednik": "Myszkowem"
+  },
+  "kluczbork": {
+    "mianownik": "Kluczbork",
+    "dopelniacz": "Kluczborka",
+    "miejscownik": "Kluczborku",
+    "biernik": "Kluczbork",
+    "narzednik": "Kluczborkiemem"
+  },
+  "brzesko": {
+    "mianownik": "Brzesko",
+    "dopelniacz": "Brzeska",
+    "miejscownik": "Brzesku",
+    "biernik": "Brzesko",
+    "narzednik": "Brzeskim"
+  },
+  "augustow": {
+    "mianownik": "Augustów",
+    "dopelniacz": "Augustowa",
+    "miejscownik": "Augustowie",
+    "biernik": "Augustów",
+    "narzednik": "Augustowem"
+  },
+  "sroda-wielkopolska": {
+    "mianownik": "Środa Wielkopolska",
+    "dopelniacz": "Środy Wielkopolskiej",
+    "miejscownik": "Środzie Wielkopolskiej",
+    "biernik": "Środę Wielkopolską",
+    "narzednik": "Środą Wielkopolską"
+  },
+  "lubliniec": {
+    "mianownik": "Lubliniec",
+    "dopelniacz": "Lublińca",
+    "miejscownik": "Lublińcu",
+    "biernik": "Lubliniec",
+    "narzednik": "Lublińcem"
+  },
+  "swidnik": {
+    "mianownik": "Świdnik",
+    "dopelniacz": "Świdnika",
+    "miejscownik": "Świdniku",
+    "biernik": "Świdnik",
+    "narzednik": "Świdnikiem"
+  },
+  "zyrardow": {
+    "mianownik": "Żyrardów",
+    "dopelniacz": "Żyrardowa",
+    "miejscownik": "Żyrardowie",
+    "biernik": "Żyrardów",
+    "narzednik": "Żyrardowem"
+  },
+  "wyszkow": {
+    "mianownik": "Wyszków",
+    "dopelniacz": "Wyszkowa",
+    "miejscownik": "Wyszkowie",
+    "biernik": "Wyszków",
+    "narzednik": "Wyszkowem"
+  },
+  "skarzysko-kamienna": {
+    "mianownik": "Skarżysko-Kamienna",
+    "dopelniacz": "Skarżyska-Kamiennej",
+    "miejscownik": "Skarżysku-Kamiennej",
+    "biernik": "Skarżysko-Kamienną",
+    "narzednik": "Skarżyskiem-Kamienną"
+  },
+  "wagrowiec": {
+    "mianownik": "Wągrowiec",
+    "dopelniacz": "Wągrowca",
+    "miejscownik": "Wągrowcu",
+    "biernik": "Wągrowiec",
+    "narzednik": "Wągrowcem"
+  },
+  "mlawa": {
+    "mianownik": "Mława",
+    "dopelniacz": "Mławy",
+    "miejscownik": "Mławie",
+    "biernik": "Mławę",
+    "narzednik": "Mławą"
+  },
+  "limanowa": {
+    "mianownik": "Limanowa",
+    "dopelniacz": "Limanowej",
+    "miejscownik": "Limanowej",
+    "biernik": "Limanową",
+    "narzednik": "Limanową"
+  },
+  "knurow": {
+    "mianownik": "Knurów",
+    "dopelniacz": "Knurowa",
+    "miejscownik": "Knurowie",
+    "biernik": "Knurów",
+    "narzednik": "Knurowem"
+  },
+  "kepno": {
+    "mianownik": "Kępno",
+    "dopelniacz": "Kępna",
+    "miejscownik": "Kępnie",
+    "biernik": "Kępno",
+    "narzednik": "Kępnem"
+  },
+  "swietochlowice": {
+    "mianownik": "Świętochłowice",
+    "dopelniacz": "Świętochłowic",
+    "miejscownik": "Świętochłowicach",
+    "biernik": "Świętochłowice",
+    "narzednik": "Świętochłowicami"
+  },
+  "gostyn": {
+    "mianownik": "Gostyń",
+    "dopelniacz": "Gostynia",
+    "miejscownik": "Gostyniu",
+    "biernik": "Gostyń",
+    "narzednik": "Gostyniem"
+  },
+  "jozefow": {
+    "mianownik": "Józefów",
+    "dopelniacz": "Józefowa",
+    "miejscownik": "Józefowie",
+    "biernik": "Józefów",
+    "narzednik": "Józefowem"
+  },
+  "pleszew": {
+    "mianownik": "Pleszew",
+    "dopelniacz": "Pleszewa",
+    "miejscownik": "Pleszewie",
+    "biernik": "Pleszew",
+    "narzednik": "Pleszewem"
+  },
+  "plonsk": {
+    "mianownik": "Płońsk",
+    "dopelniacz": "Płońska",
+    "miejscownik": "Płońsku",
+    "biernik": "Płońsk",
+    "narzednik": "Płońskiem"
+  },
+  "kolo": {
+    "mianownik": "Koło",
+    "dopelniacz": "Koła",
+    "miejscownik": "Kole",
+    "biernik": "Koło",
+    "narzednik": "Kołem"
+  },
+  "siemianowice-slaskie": {
+    "mianownik": "Siemianowice Śląskie",
+    "dopelniacz": "Siemianowic Śląskich",
+    "miejscownik": "Siemianowicach Śląskich",
+    "biernik": "Siemianowice Śląskie",
+    "narzednik": "Siemianowicami Śląskimi"
+  },
+  "wolsztyn": {
+    "mianownik": "Wolsztyn",
+    "dopelniacz": "Wolsztyna",
+    "miejscownik": "Wolsztynie",
+    "biernik": "Wolsztyn",
+    "narzednik": "Wolsztynem"
+  },
+  "goleniow": {
+    "mianownik": "Goleniów",
+    "dopelniacz": "Goleniowa",
+    "miejscownik": "Goleniowie",
+    "biernik": "Goleniów",
+    "narzednik": "Goleniowem"
+  },
+  "andrychow": {
+    "mianownik": "Andrychów",
+    "dopelniacz": "Andrychowa",
+    "miejscownik": "Andrychowie",
+    "biernik": "Andrychów",
+    "narzednik": "Andrychowem"
+  },
+  "swiebodzin": {
+    "mianownik": "Świebodzin",
+    "dopelniacz": "Świebodzina",
+    "miejscownik": "Świebodzinie",
+    "biernik": "Świebodzin",
+    "narzednik": "Świebodzinem"
+  },
+  "lancut": {
+    "mianownik": "Łańcut",
+    "dopelniacz": "Łańcuta",
+    "miejscownik": "Łańcucie",
+    "biernik": "Łańcut",
+    "narzednik": "Łańcutem"
+  },
+  "grojec": {
+    "mianownik": "Grójec",
+    "dopelniacz": "Grójca",
+    "miejscownik": "Grójcu",
+    "biernik": "Grójec",
+    "narzednik": "Grójcem"
+  },
+  "lubartow": {
+    "mianownik": "Lubartów",
+    "dopelniacz": "Lubartowa",
+    "miejscownik": "Lubartowie",
+    "biernik": "Lubartów",
+    "narzednik": "Lubartowem"
+  },
+  "mragowo": {
+    "mianownik": "Mrągowo",
+    "dopelniacz": "Mrągowa",
+    "miejscownik": "Mrągowie",
+    "biernik": "Mrągowo",
+    "narzednik": "Mrągowem"
+  },
+  "garwolin": {
+    "mianownik": "Garwolin",
+    "dopelniacz": "Garwolina",
+    "miejscownik": "Garwolinie",
+    "biernik": "Garwolin",
+    "narzednik": "Garwolinem"
+  },
+  "szczytno": {
+    "mianownik": "Szczytno",
+    "dopelniacz": "Szczytna",
+    "miejscownik": "Szczyśnie",
+    "biernik": "Szczytno",
+    "narzednik": "Szczytnem"
+  },
+  "oborniki": {
+    "mianownik": "Oborniki",
+    "dopelniacz": "Obornik",
+    "miejscownik": "Obornikach",
+    "biernik": "Oborniki",
+    "narzednik": "Obornikami"
+  },
+  "konskie": {
+    "mianownik": "Końskie",
+    "dopelniacz": "Końskich",
+    "miejscownik": "Końskich",
+    "biernik": "Końskie",
+    "narzednik": "Końskimi"
+  },
+  "walcz": {
+    "mianownik": "Wałcz",
+    "dopelniacz": "Wałcza",
+    "miejscownik": "Wałczu",
+    "biernik": "Wałcz",
+    "narzednik": "Wałczem"
+  },
+  "nowy-tomysl": {
+    "mianownik": "Nowy Tomyśl",
+    "dopelniacz": "Nowego Tomyśla",
+    "miejscownik": "Nowym Tomyślu",
+    "biernik": "Nowy Tomyśl",
+    "narzednik": "Nowym Tomyślem"
+  },
+  "ostrzeszow": {
+    "mianownik": "Ostrzeszów",
+    "dopelniacz": "Ostrzeszowa",
+    "miejscownik": "Ostrzeszowie",
+    "biernik": "Ostrzeszów",
+    "narzednik": "Ostrzeszowem"
+  },
+  "reda": {
+    "mianownik": "Reda",
+    "dopelniacz": "Redy",
+    "miejscownik": "Redzie",
+    "biernik": "Redę",
+    "narzednik": "Redą"
+  },
+  "konstancin-jeziorna": {
+    "mianownik": "Konstancin-Jeziorna",
+    "dopelniacz": "Konstancina-Jeziorny",
+    "miejscownik": "Konstancinie-Jeziornie",
+    "biernik": "Konstancin-Jeziornę",
+    "narzednik": "Konstancinem-Jeziorną"
+  },
+  "rawicz": {
+    "mianownik": "Rawicz",
+    "dopelniacz": "Rawicza",
+    "miejscownik": "Rawiczu",
+    "biernik": "Rawicz",
+    "narzednik": "Rawiczem"
+  },
+  "szamotuly": {
+    "mianownik": "Szamotuły",
+    "dopelniacz": "Szamotuł",
+    "miejscownik": "Szamotułach",
+    "biernik": "Szamotuły",
+    "narzednik": "Szamotułami"
+  },
+  "nowy-dwor-mazowiecki": {
+    "mianownik": "Nowy Dwór Mazowiecki",
+    "dopelniacz": "Nowego Dworu Mazowieckiego",
+    "miejscownik": "Nowym Dworze Mazowieckim",
+    "biernik": "Nowy Dwór Mazowiecki",
+    "narzednik": "Nowym Dworem Mazowieckim"
+  },
+  "tomaszow-lubelski": {
+    "mianownik": "Tomaszów Lubelski",
+    "dopelniacz": "Tomaszowa Lubelskiego",
+    "miejscownik": "Tomaszowie Lubelskim",
+    "biernik": "Tomaszów Lubelski",
+    "narzednik": "Tomaszowem Lubelskim"
+  },
+  "bilgoraj": {
+    "mianownik": "Biłgoraj",
+    "dopelniacz": "Biłgoraja",
+    "miejscownik": "Biłgoraju",
+    "biernik": "Biłgoraj",
+    "narzednik": "Biłgorajem"
+  },
+  "zagan": {
+    "mianownik": "Żagań",
+    "dopelniacz": "Żagania",
+    "miejscownik": "Żaganiu",
+    "biernik": "Żagań",
+    "narzednik": "Żaganiem"
+  },
+  "busko-zdroj": {
+    "mianownik": "Busko-Zdrój",
+    "dopelniacz": "Buska-Zdroju",
+    "miejscownik": "Busku-Zdroju",
+    "biernik": "Busko-Zdrój",
+    "narzednik": "Buskiem-Zdrojem"
+  },
+  "bielsk-podlaski": {
+    "mianownik": "Bielsk Podlaski",
+    "dopelniacz": "Bielska Podlaskiego",
+    "miejscownik": "Bielsku Podlaskim",
+    "biernik": "Bielsk Podlaski",
+    "narzednik": "Bielskem Podlaskim"
+  },
+  "kobylka": {
+    "mianownik": "Kobyłka",
+    "dopelniacz": "Kobyłki",
+    "miejscownik": "Kobyłce",
+    "biernik": "Kobyłkę",
+    "narzednik": "Kobyłką"
+  },
+  "police": {
+    "mianownik": "Police",
+    "dopelniacz": "Polic",
+    "miejscownik": "Policach",
+    "biernik": "Police",
+    "narzednik": "Policami"
+  },
+  "zlotow": {
+    "mianownik": "Złotów",
+    "dopelniacz": "Złotowa",
+    "miejscownik": "Złotowie",
+    "biernik": "Złotów",
+    "narzednik": "Złotowem"
+  },
+  "strzelce-opolskie": {
+    "mianownik": "Strzelce Opolskie",
+    "dopelniacz": "Strzelec Opolskich",
+    "miejscownik": "Strzelcach Opolskich",
+    "biernik": "Strzelce Opolskie",
+    "narzednik": "Strzelcami Opolskimi"
+  },
+  "kety": {
+    "mianownik": "Kęty",
+    "dopelniacz": "Kęt",
+    "miejscownik": "Kętach",
+    "biernik": "Kęty",
+    "narzednik": "Kętami"
+  },
+  "kartuzy": {
+    "mianownik": "Kartuzy",
+    "dopelniacz": "Kartuz",
+    "miejscownik": "Kartuzach",
+    "biernik": "Kartuzy",
+    "narzednik": "Kartuzami"
+  },
+  "niepolomice": {
+    "mianownik": "Niepołomice",
+    "dopelniacz": "Niepołomic",
+    "miejscownik": "Niepołomicach",
+    "biernik": "Niepołomice",
+    "narzednik": "Niepołomicami"
+  },
+  "sulejowek": {
+    "mianownik": "Sulejówek",
+    "dopelniacz": "Sulejówka",
+    "miejscownik": "Sulejówku",
+    "biernik": "Sulejówek",
+    "narzednik": "Sulejówkiem"
+  },
+  "luban": {
+    "mianownik": "Lubań",
+    "dopelniacz": "Lubania",
+    "miejscownik": "Lubaniu",
+    "biernik": "Lubań",
+    "narzednik": "Lubaniem"
+  },
+  "skoczow": {
+    "mianownik": "Skoczów",
+    "dopelniacz": "Skoczowa",
+    "miejscownik": "Skoczowie",
+    "biernik": "Skoczów",
+    "narzednik": "Skoczowem"
+  },
+  "pultusk": {
+    "mianownik": "Pułtusk",
+    "dopelniacz": "Pułtuska",
+    "miejscownik": "Pułtusku",
+    "biernik": "Pułtusk",
+    "narzednik": "Pułtuskiem"
+  },
+  "slubice": {
+    "mianownik": "Słubice",
+    "dopelniacz": "Słubic",
+    "miejscownik": "Słubicach",
+    "biernik": "Słubice",
+    "narzednik": "Słubicami"
+  },
+  "opoczno": {
+    "mianownik": "Opoczno",
+    "dopelniacz": "Opoczna",
+    "miejscownik": "Opocznie",
+    "biernik": "Opoczno",
+    "narzednik": "Opocznem"
+  },
+  "wladyslawowo": {
+    "mianownik": "Władysławowo",
+    "dopelniacz": "Władysławowa",
+    "miejscownik": "Władysławowie",
+    "biernik": "Władysławowo",
+    "narzednik": "Władysławowem"
+  },
+  "trzebnica": {
+    "mianownik": "Trzebnica",
+    "dopelniacz": "Trzebnicy",
+    "miejscownik": "Trzebnicy",
+    "biernik": "Trzebnicę",
+    "narzednik": "Trzebnicą"
+  },
+  "ostrow-mazowiecka": {
+    "mianownik": "Ostrów Mazowiecka",
+    "dopelniacz": "Ostrowia Mazowieckiej",
+    "miejscownik": "Ostrowi Mazowieckiej",
+    "biernik": "Ostrów Mazowiecką",
+    "narzednik": "Ostrowiem Mazowiecką"
+  },
+  "ketrzyn": {
+    "mianownik": "Kętrzyn",
+    "dopelniacz": "Kętrzyna",
+    "miejscownik": "Kętrzynie",
+    "biernik": "Kętrzyn",
+    "narzednik": "Kętrzynem"
+  },
+  "jawor": {
+    "mianownik": "Jawor",
+    "dopelniacz": "Jawora",
+    "miejscownik": "Jaworze",
+    "biernik": "Jawor",
+    "narzednik": "Jaworem"
+  },
+  "bielawa": {
+    "mianownik": "Bielawa",
+    "dopelniacz": "Bielawy",
+    "miejscownik": "Bielawie",
+    "biernik": "Bielawę",
+    "narzednik": "Bielawą"
+  },
+  "zielonka": {
+    "mianownik": "Zielonka",
+    "dopelniacz": "Zielonki",
+    "miejscownik": "Zielonce",
+    "biernik": "Zielonkę",
+    "narzednik": "Zielonką"
+  },
+  "bytow": {
+    "mianownik": "Bytów",
+    "dopelniacz": "Bytowa",
+    "miejscownik": "Bytowie",
+    "biernik": "Bytów",
+    "narzednik": "Bytowem"
+  },
+  "jedrzejow": {
+    "mianownik": "Jędrzejów",
+    "dopelniacz": "Jędrzejowa",
+    "miejscownik": "Jędrzejowie",
+    "biernik": "Jędrzejów",
+    "narzednik": "Jędrzejowem"
+  },
+  "aleksandrow-lodzki": {
+    "mianownik": "Aleksandrów Łódzki",
+    "dopelniacz": "Aleksandrowa Łódzkiego",
+    "miejscownik": "Aleksandrowie Łódzkim",
+    "biernik": "Aleksandrów Łódzki",
+    "narzednik": "Aleksandrowem Łódzkim"
+  },
+  "zambrow": {
+    "mianownik": "Zambrów",
+    "dopelniacz": "Zambrowa",
+    "miejscownik": "Zambrowie",
+    "biernik": "Zambrów",
+    "narzednik": "Zambrowem"
+  },
+  "miedzyrzecz": {
+    "mianownik": "Międzyrzecz",
+    "dopelniacz": "Międzyrzecza",
+    "miejscownik": "Międzyrzeczu",
+    "biernik": "Międzyrzecz",
+    "narzednik": "Międzyrzeczem"
+  },
+  "piastow": {
+    "mianownik": "Piastów",
+    "dopelniacz": "Piastowa",
+    "miejscownik": "Piastowie",
+    "biernik": "Piastów",
+    "narzednik": "Piastowem"
+  },
+  "namyslow": {
+    "mianownik": "Namysłów",
+    "dopelniacz": "Namysłowa",
+    "miejscownik": "Namysłowie",
+    "biernik": "Namysłów",
+    "narzednik": "Namysłowem"
+  },
+  "chodziez": {
+    "mianownik": "Chodzież",
+    "dopelniacz": "Chodzieży",
+    "miejscownik": "Chodzieży",
+    "biernik": "Chodzież",
+    "narzednik": "Chodzieżą"
+  },
+  "lask": {
+    "mianownik": "Łask",
+    "dopelniacz": "Łasku",
+    "miejscownik": "Łasku",
+    "biernik": "Łask",
+    "narzednik": "Łaskiem"
+  },
+  "mosina": {
+    "mianownik": "Mosina",
+    "dopelniacz": "Mosiny",
+    "miejscownik": "Mosinie",
+    "biernik": "Mosinę",
+    "narzednik": "Mosiną"
+  },
+  "milanowek": {
+    "mianownik": "Milanówek",
+    "dopelniacz": "Milanówka",
+    "miejscownik": "Milanówku",
+    "biernik": "Milanówek",
+    "narzednik": "Milanówkiem"
+  },
+  "gryfino": {
+    "mianownik": "Gryfino",
+    "dopelniacz": "Gryfina",
+    "miejscownik": "Gryfinie",
+    "biernik": "Gryfino",
+    "narzednik": "Gryfiną"
+  },
+  "sierpc": {
+    "mianownik": "Sierpc",
+    "dopelniacz": "Sierpca",
+    "miejscownik": "Sierpcu",
+    "biernik": "Sierpc",
+    "narzednik": "Sierpcem"
+  },
+  "znin": {
+    "mianownik": "Żnin",
+    "dopelniacz": "Żnina",
+    "miejscownik": "Żninie",
+    "biernik": "Żnin",
+    "narzednik": "Żninem"
+  },
+  "blonie": {
+    "mianownik": "Błonie",
+    "dopelniacz": "Błonia",
+    "miejscownik": "Błoniu",
+    "biernik": "Błonie",
+    "narzednik": "Błoniem"
+  },
+  "rabka-zdroj": {
+    "mianownik": "Rabka-Zdrój",
+    "dopelniacz": "Rabki-Zdroju",
+    "miejscownik": "Rabce-Zdroju",
+    "biernik": "Rabkę-Zdrój",
+    "narzednik": "Rabką-Zdrojem"
+  },
+  "olesno": {
+    "mianownik": "Olesno",
+    "dopelniacz": "Olesna",
+    "miejscownik": "Oleśnie",
+    "biernik": "Olesno",
+    "narzednik": "Olesnem"
+  },
+  "radzymin": {
+    "mianownik": "Radzymin",
+    "dopelniacz": "Radzymina",
+    "miejscownik": "Radzyminie",
+    "biernik": "Radzymin",
+    "narzednik": "Radzyminem"
+  },
+  "czerwionka-leszczyny": {
+    "mianownik": "Czerwionka-Leszczyny",
+    "dopelniacz": "Czerwionki-Leszczyn",
+    "miejscownik": "Czerwionce-Leszczynach",
+    "biernik": "Czerwionkę-Leszczyny",
+    "narzednik": "Czerwionką-Leszczynami"
+  },
+  "bialogard": {
+    "mianownik": "Białogard",
+    "dopelniacz": "Białogardu",
+    "miejscownik": "Białogardzie",
+    "biernik": "Białogard",
+    "narzednik": "Białogardem"
+  },
+  "kozienice": {
+    "mianownik": "Kozienice",
+    "dopelniacz": "Kozienic",
+    "miejscownik": "Kozienicach",
+    "biernik": "Kozienice",
+    "narzednik": "Kozienicami"
+  },
+  "polkowice": {
+    "mianownik": "Polkowice",
+    "dopelniacz": "Polkowic",
+    "miejscownik": "Polkowicach",
+    "biernik": "Polkowice",
+    "narzednik": "Polkowicami"
+  },
+  "krasnystaw": {
+    "mianownik": "Krasnystaw",
+    "dopelniacz": "Krasnegostawu",
+    "miejscownik": "Krasnymstawie",
+    "biernik": "Krasnystaw",
+    "narzednik": "Krasnymstawem"
+  },
+  "bartoszyce": {
+    "mianownik": "Bartoszyce",
+    "dopelniacz": "Bartoszyc",
+    "miejscownik": "Bartoszycach",
+    "biernik": "Bartoszyce",
+    "narzednik": "Bartoszycami"
+  },
+  "sulechow": {
+    "mianownik": "Sulechów",
+    "dopelniacz": "Sulechowa",
+    "miejscownik": "Sulechowie",
+    "biernik": "Sulechów",
+    "narzednik": "Sulechowem"
+  },
+  "slupca": {
+    "mianownik": "Słupca",
+    "dopelniacz": "Słupcy",
+    "miejscownik": "Słupcy",
+    "biernik": "Słupcę",
+    "narzednik": "Słupcą"
+  },
+  "przeworsk": {
+    "mianownik": "Przeworsk",
+    "dopelniacz": "Przeworska",
+    "miejscownik": "Przeworsku",
+    "biernik": "Przeworsk",
+    "narzednik": "Przeworskiem"
+  },
+  "klobuck": {
+    "mianownik": "Kłobuck",
+    "dopelniacz": "Kłobucka",
+    "miejscownik": "Kłobucku",
+    "biernik": "Kłobuck",
+    "narzednik": "Kłobuckiem"
+  },
+  "brzeziny": {
+    "mianownik": "Brzeziny",
+    "dopelniacz": "Brzezin",
+    "miejscownik": "Brzezinach",
+    "biernik": "Brzeziny",
+    "narzednik": "Brzezinami"
+  },
+  "ustron": {
+    "mianownik": "Ustroń",
+    "dopelniacz": "Ustronia",
+    "miejscownik": "Ustroniu",
+    "biernik": "Ustroń",
+    "narzednik": "Ustroniem"
+  },
+  "strzelin": {
+    "mianownik": "Strzelin",
+    "dopelniacz": "Strzelina",
+    "miejscownik": "Strzelinie",
+    "biernik": "Strzelin",
+    "narzednik": "Strzelinem"
+  },
+  "orzesze": {
+    "mianownik": "Orzesze",
+    "dopelniacz": "Orzesza",
+    "miejscownik": "Orzeszu",
+    "biernik": "Orzesze",
+    "narzednik": "Orzeszem"
+  },
+  "tuchola": {
+    "mianownik": "Tuchola",
+    "dopelniacz": "Tucholi",
+    "miejscownik": "Tucholi",
+    "biernik": "Tucholę",
+    "narzednik": "Tucholą"
+  },
+  "grajewo": {
+    "mianownik": "Grajewo",
+    "dopelniacz": "Grajewa",
+    "miejscownik": "Grajewie",
+    "biernik": "Grajewo",
+    "narzednik": "Grajewem"
+  },
+  "chelmno": {
+    "mianownik": "Chełmno",
+    "dopelniacz": "Chełmna",
+    "miejscownik": "Chełmnie",
+    "biernik": "Chełmno",
+    "narzednik": "Chełmnem"
+  },
+  "trzebinia": {
+    "mianownik": "Trzebinia",
+    "dopelniacz": "Trzebini",
+    "miejscownik": "Trzebini",
+    "biernik": "Trzebinię",
+    "narzednik": "Trzebinią"
+  },
+  "leczyca": {
+    "mianownik": "Łęczyca",
+    "dopelniacz": "Łęczycy",
+    "miejscownik": "Łęczycy",
+    "biernik": "Łęczycę",
+    "narzednik": "Łęczycą"
+  },
+  "ozarow-mazowiecki": {
+    "mianownik": "Ożarów Mazowiecki",
+    "dopelniacz": "Ożarowa Mazowieckiego",
+    "miejscownik": "Ożarowie Mazowieckim",
+    "biernik": "Ożarów Mazowiecki",
+    "narzednik": "Ożarowem Mazowieckim"
+  },
+  "dzialdowo": {
+    "mianownik": "Działdowo",
+    "dopelniacz": "Działdowa",
+    "miejscownik": "Działdowie",
+    "biernik": "Działdowo",
+    "narzednik": "Działdowem"
+  },
+  "lipno": {
+    "mianownik": "Lipno",
+    "dopelniacz": "Lipna",
+    "miejscownik": "Lipnie",
+    "biernik": "Lipno",
+    "narzednik": "Lipnem"
+  },
+  "prudnik": {
+    "mianownik": "Prudnik",
+    "dopelniacz": "Prudnika",
+    "miejscownik": "Prudniku",
+    "biernik": "Prudnik",
+    "narzednik": "Prudnikiem"
+  },
+  "krzeszowice": {
+    "mianownik": "Krzeszowice",
+    "dopelniacz": "Krzeszowic",
+    "miejscownik": "Krzeszowicach",
+    "biernik": "Krzeszowice",
+    "narzednik": "Krzeszowicami"
+  },
+  "przasnysz": {
+    "mianownik": "Przasnysz",
+    "dopelniacz": "Przasnysza",
+    "miejscownik": "Przasnyszu",
+    "biernik": "Przasnysz",
+    "narzednik": "Przasnyszem"
+  },
+  "pisz": {
+    "mianownik": "Pisz",
+    "dopelniacz": "Pisza",
+    "miejscownik": "Piszu",
+    "biernik": "Pisz",
+    "narzednik": "Piszem"
+  },
+  "milicz": {
+    "mianownik": "Milicz",
+    "dopelniacz": "Milicza",
+    "miejscownik": "Miliczu",
+    "biernik": "Milicz",
+    "narzednik": "Miliczem"
+  },
+  "grodzisk-wielkopolski": {
+    "mianownik": "Grodzisk Wielkopolski",
+    "dopelniacz": "Grodziska Wielkopolskiego",
+    "miejscownik": "Grodzisku Wielkopolskim",
+    "biernik": "Grodzisk Wielkopolski",
+    "narzednik": "Grodziskiem Wielkopolskim"
+  },
+  "hrubieszow": {
+    "mianownik": "Hrubieszów",
+    "dopelniacz": "Hrubieszowa",
+    "miejscownik": "Hrubieszowie",
+    "biernik": "Hrubieszów",
+    "narzednik": "Hrubieszowem"
+  },
+  "mogilno": {
+    "mianownik": "Mogilno",
+    "dopelniacz": "Mogilna",
+    "miejscownik": "Mogilnie",
+    "biernik": "Mogilno",
+    "narzednik": "Mogilnem"
+  },
+  "lezajsk": {
+    "mianownik": "Leżajsk",
+    "dopelniacz": "Leżajska",
+    "miejscownik": "Leżajsku",
+    "biernik": "Leżajsk",
+    "narzednik": "Leżajskiem"
+  },
+  "radzyn-podlaski": {
+    "mianownik": "Radzyń Podlaski",
+    "dopelniacz": "Radzynia Podlaskiego",
+    "miejscownik": "Radzyniu Podlaskim",
+    "biernik": "Radzyń Podlaski",
+    "narzednik": "Radzyniem Podlaskim"
+  },
+  "sucha-beskidzka": {
+    "mianownik": "Sucha Beskidzka",
+    "dopelniacz": "Suchej Beskidzkiej",
+    "miejscownik": "Suchej Beskidzkiej",
+    "biernik": "Suchą Beskidzką",
+    "narzednik": "Suchą Beskidzką"
+  },
+  "sokolow-podlaski": {
+    "mianownik": "Sokołów Podlaski",
+    "dopelniacz": "Sokołowa Podlaskiego",
+    "miejscownik": "Sokołowie Podlaskim",
+    "biernik": "Sokołów Podlaski",
+    "narzednik": "Sokołowem Podlaskim"
+  },
+  "strzegom": {
+    "mianownik": "Strzegom",
+    "dopelniacz": "Strzegomia",
+    "miejscownik": "Strzegomiu",
+    "biernik": "Strzegom",
+    "narzednik": "Strzegomiem"
+  },
+  "puck": {
+    "mianownik": "Puck",
+    "dopelniacz": "Pucka",
+    "miejscownik": "Pucku",
+    "biernik": "Puck",
+    "narzednik": "Puckiem"
+  },
+  "staszow": {
+    "mianownik": "Staszów",
+    "dopelniacz": "Staszowa",
+    "miejscownik": "Staszowie",
+    "biernik": "Staszów",
+    "narzednik": "Staszowem"
+  },
+  "ustka": {
+    "mianownik": "Ustka",
+    "dopelniacz": "Ustki",
+    "miejscownik": "Ustce",
+    "biernik": "Ustkę",
+    "narzednik": "Ustką"
+  },
+  "nisko": {
+    "mianownik": "Nisko",
+    "dopelniacz": "Niska",
+    "miejscownik": "Nisku",
+    "biernik": "Nisko",
+    "narzednik": "Niskiem"
+  },
+  "ozorkow": {
+    "mianownik": "Ozorków",
+    "dopelniacz": "Ozorkowa",
+    "miejscownik": "Ozorkowie",
+    "biernik": "Ozorków",
+    "narzednik": "Ozorkowem"
+  },
+  "zlotoryja": {
+    "mianownik": "Złotoryja",
+    "dopelniacz": "Złotoryi",
+    "miejscownik": "Złotoryi",
+    "biernik": "Złotoryję",
+    "narzednik": "Złotoryją"
+  },
+  "radzionkow": {
+    "mianownik": "Radzionków",
+    "dopelniacz": "Radzionkowa",
+    "miejscownik": "Radzionkowie",
+    "biernik": "Radzionków",
+    "narzednik": "Radzionkowem"
+  },
+  "kolbuszowa": {
+    "mianownik": "Kolbuszowa",
+    "dopelniacz": "Kolbuszowej",
+    "miejscownik": "Kolbuszowej",
+    "biernik": "Kolbuszową",
+    "narzednik": "Kolbuszową"
+  },
+  "leczna": {
+    "mianownik": "Łęczna",
+    "dopelniacz": "Łęcznej",
+    "miejscownik": "Łęcznej",
+    "biernik": "Łęczną",
+    "narzednik": "Łęczną"
+  },
+  "rzgow": {
+    "mianownik": "Rzgów",
+    "dopelniacz": "Rzgowa",
+    "miejscownik": "Rzgowie",
+    "biernik": "Rzgów",
+    "narzednik": "Rzgowem"
+  },
+  "ryki": {
+    "mianownik": "Ryki",
+    "dopelniacz": "Ryk",
+    "miejscownik": "Rykach",
+    "biernik": "Ryki",
+    "narzednik": "Rykami"
+  },
+  "naklo-nad-notecia": {
+    "mianownik": "Nakło nad Notecią",
+    "dopelniacz": "Nakła nad Notecią",
+    "miejscownik": "Nakle nad Notecią",
+    "biernik": "Nakło nad Notecią",
+    "narzednik": "Nakłem nad Notecią"
+  },
+  "miechow": {
+    "mianownik": "Miechów",
+    "dopelniacz": "Miechowa",
+    "miejscownik": "Miechowie",
+    "biernik": "Miechów",
+    "narzednik": "Miechowem"
+  },
+  "siemiatycze": {
+    "mianownik": "Siemiatycze",
+    "dopelniacz": "Siemiatycz",
+    "miejscownik": "Siemiatyczach",
+    "biernik": "Siemiatycze",
+    "narzednik": "Siemiatyczami"
+  },
+  "zabkowice-slaskie": {
+    "mianownik": "Ząbkowice Śląskie",
+    "dopelniacz": "Ząbkowic Śląskich",
+    "miejscownik": "Ząbkowicach Śląskich",
+    "biernik": "Ząbkowice Śląskie",
+    "narzednik": "Ząbkowicami Śląskimi"
+  },
+  "olecko": {
+    "mianownik": "Olecko",
+    "dopelniacz": "Olecka",
+    "miejscownik": "Olecku",
+    "biernik": "Olecko",
+    "narzednik": "Oleckiem"
+  },
+  "ropczyce": {
+    "mianownik": "Ropczyce",
+    "dopelniacz": "Ropczyc",
+    "miejscownik": "Ropczycach",
+    "biernik": "Ropczyce",
+    "narzednik": "Ropczycami"
+  },
+  "krapkowice": {
+    "mianownik": "Krapkowice",
+    "dopelniacz": "Krapkowic",
+    "miejscownik": "Krapkowicach",
+    "biernik": "Krapkowice",
+    "narzednik": "Krapkowicami"
+  },
+  "darlowo": {
+    "mianownik": "Darłowo",
+    "dopelniacz": "Darłowa",
+    "miejscownik": "Darłowie",
+    "biernik": "Darłowo",
+    "narzednik": "Darłowem"
+  },
+  "swiebodzice": {
+    "mianownik": "Świebodzice",
+    "dopelniacz": "Świebodzic",
+    "miejscownik": "Świebodzicach",
+    "biernik": "Świebodzice",
+    "narzednik": "Świebodzicami"
+  },
+  "debno": {
+    "mianownik": "Dębno",
+    "dopelniacz": "Dębna",
+    "miejscownik": "Dębnie",
+    "biernik": "Dębno",
+    "narzednik": "Dębnem"
+  },
+  "bierun": {
+    "mianownik": "Bieruń",
+    "dopelniacz": "Bierunia",
+    "miejscownik": "Bieruniu",
+    "biernik": "Bieruń",
+    "narzednik": "Bieruniem"
+  },
+  "nowa-ruda": {
+    "mianownik": "Nowa Ruda",
+    "dopelniacz": "Nowej Rudy",
+    "miejscownik": "Nowej Rudzie",
+    "biernik": "Nową Rudę",
+    "narzednik": "Nową Rudą"
+  },
+  "wschowa": {
+    "mianownik": "Wschowa",
+    "dopelniacz": "Wschowy",
+    "miejscownik": "Wschowie",
+    "biernik": "Wschowę",
+    "narzednik": "Wschową"
+  },
+  "zukowo": {
+    "mianownik": "Żukowo",
+    "dopelniacz": "Żukowa",
+    "miejscownik": "Żukowie",
+    "biernik": "Żukowo",
+    "narzednik": "Żukowem"
+  },
+  "laziska-gorne": {
+    "mianownik": "Łaziska Górne",
+    "dopelniacz": "Łazisk Górnych",
+    "miejscownik": "Łaziskach Górnych",
+    "biernik": "Łaziska Górne",
+    "narzednik": "Łaziskami Górnymi"
+  },
+  "glowno": {
+    "mianownik": "Głowno",
+    "dopelniacz": "Głowna",
+    "miejscownik": "Głownie",
+    "biernik": "Głowno",
+    "narzednik": "Głownem"
+  },
+  "hajnowka": {
+    "mianownik": "Hajnówka",
+    "dopelniacz": "Hajnówki",
+    "miejscownik": "Hajnówce",
+    "biernik": "Hajnówkę",
+    "narzednik": "Hajnówką"
+  },
+  "kamienna-gora": {
+    "mianownik": "Kamienna Góra",
+    "dopelniacz": "Kamiennej Góry",
+    "miejscownik": "Kamiennej Górze",
+    "biernik": "Kamienną Górę",
+    "narzednik": "Kamienną Górą"
+  },
+  "krynica-zdroj": {
+    "mianownik": "Krynica-Zdrój",
+    "dopelniacz": "Krynicy-Zdroju",
+    "miejscownik": "Krynicy-Zdroju",
+    "biernik": "Krynicę-Zdrój",
+    "narzednik": "Krynicą-Zdrojem"
+  },
+  "czluchow": {
+    "mianownik": "Człuchów",
+    "dopelniacz": "Człuchowa",
+    "miejscownik": "Człuchowie",
+    "biernik": "Człuchów",
+    "narzednik": "Człuchowem"
+  },
+  "wisla": {
+    "mianownik": "Wisła",
+    "dopelniacz": "Wisły",
+    "miejscownik": "Wiśle",
+    "biernik": "Wisłę",
+    "narzednik": "Wisłą"
+  },
+  "rypin": {
+    "mianownik": "Rypin",
+    "dopelniacz": "Rypina",
+    "miejscownik": "Rypinie",
+    "biernik": "Rypin",
+    "narzednik": "Rypinem"
+  },
+  "jelcz-laskowice": {
+    "mianownik": "Jelcz-Laskowice",
+    "dopelniacz": "Jelcza-Laskowic",
+    "miejscownik": "Jelczu-Laskowicach",
+    "biernik": "Jelcz-Laskowice",
+    "narzednik": "Jelczem-Laskowicami"
+  },
+  "radlin": {
+    "mianownik": "Radlin",
+    "dopelniacz": "Radlina",
+    "miejscownik": "Radlinie",
+    "biernik": "Radlin",
+    "narzednik": "Radlinem"
+  },
+  "kalwaria-zebrzydowska": {
+    "mianownik": "Kalwaria Zebrzydowska",
+    "dopelniacz": "Kalwarii Zebrzydowskiej",
+    "miejscownik": "Kalwarii Zebrzydowskiej",
+    "biernik": "Kalwarię Zebrzydowską",
+    "narzednik": "Kalwarią Zebrzydowską"
+  },
+  "konstantynow-lodzki": {
+    "mianownik": "Konstantynów Łódzki",
+    "dopelniacz": "Konstantynowa Łódzkiego",
+    "miejscownik": "Konstantynowie Łódzkim",
+    "biernik": "Konstantynów Łódzki",
+    "narzednik": "Konstantynowem Łódzkim"
+  },
+  "pyskowice": {
+    "mianownik": "Pyskowice",
+    "dopelniacz": "Pyskowic",
+    "miejscownik": "Pyskowicach",
+    "biernik": "Pyskowice",
+    "narzednik": "Pyskowicami"
+  },
+  "trzcianka": {
+    "mianownik": "Trzcianka",
+    "dopelniacz": "Trzcianki",
+    "miejscownik": "Trzciance",
+    "biernik": "Trzciankę",
+    "narzednik": "Trzcionką"
+  },
+  "wolbrom": {
+    "mianownik": "Wolbrom",
+    "dopelniacz": "Wolbromia",
+    "miejscownik": "Wolbromiu",
+    "biernik": "Wolbrom",
+    "narzednik": "Wolbromiem"
+  },
+  "sokolka": {
+    "mianownik": "Sokółka",
+    "dopelniacz": "Sokółki",
+    "miejscownik": "Sokółce",
+    "biernik": "Sokółkę",
+    "narzednik": "Sokółką"
+  },
+  "kostrzyn-nad-odra": {
+    "mianownik": "Kostrzyn nad Odrą",
+    "dopelniacz": "Kostrzyna nad Odrą",
+    "miejscownik": "Kostrzynie nad Odrą",
+    "biernik": "Kostrzyn nad Odrą",
+    "narzednik": "Kostrzynem nad Odrą"
+  },
+  "wabrzezno": {
+    "mianownik": "Wąbrzeźno",
+    "dopelniacz": "Wąbrzeźna",
+    "miejscownik": "Wąbrzeźnie",
+    "biernik": "Wąbrzeźno",
+    "narzednik": "Wąbrzeźnem"
+  },
+  "gora-kalwaria": {
+    "mianownik": "Góra Kalwaria",
+    "dopelniacz": "Góry Kalwarii",
+    "miejscownik": "Górze Kalwarii",
+    "biernik": "Górę Kalwaria",
+    "narzednik": "Górą Kalwarią"
+  },
+  "wieruszow": {
+    "mianownik": "Wieruszów",
+    "dopelniacz": "Wieruszowa",
+    "miejscownik": "Wieruszowie",
+    "biernik": "Wieruszów",
+    "narzednik": "Wieruszowem"
+  },
+  "ciechocinek": {
+    "mianownik": "Ciechocinek",
+    "dopelniacz": "Ciechocinka",
+    "miejscownik": "Ciechocinku",
+    "biernik": "Ciechocinek",
+    "narzednik": "Ciechocinkiem"
+  },
+  "gostynin": {
+    "mianownik": "Gostynin",
+    "dopelniacz": "Gostynina",
+    "miejscownik": "Gostyninie",
+    "biernik": "Gostynin",
+    "narzednik": "Gostyninem"
+  },
+  "gubin": {
+    "mianownik": "Gubin",
+    "dopelniacz": "Gubina",
+    "miejscownik": "Gubinie",
+    "biernik": "Gubin",
+    "narzednik": "Gubinem"
+  },
+  "mszana-dolna": {
+    "mianownik": "Mszana Dolna",
+    "dopelniacz": "Mszany Dolnej",
+    "miejscownik": "Mszanie Dolnej",
+    "biernik": "Mszanę Dolną",
+    "narzednik": "Mszaną Dolną"
+  },
+  "lubaczow": {
+    "mianownik": "Lubaczów",
+    "dopelniacz": "Lubaczowa",
+    "miejscownik": "Lubaczowie",
+    "biernik": "Lubaczów",
+    "narzednik": "Lubaczowem"
+  },
+  "wloszczowa": {
+    "mianownik": "Włoszczowa",
+    "dopelniacz": "Włoszczowy",
+    "miejscownik": "Włoszczowej",
+    "biernik": "Włoszczowę",
+    "narzednik": "Włoszczową"
+  },
+  "swidwin": {
+    "mianownik": "Świdwin",
+    "dopelniacz": "Świdwina",
+    "miejscownik": "Świdwinie",
+    "biernik": "Świdwin",
+    "narzednik": "Świdwinem"
+  },
+  "glubczyce": {
+    "mianownik": "Głubczyce",
+    "dopelniacz": "Głubczyc",
+    "miejscownik": "Głubczycach",
+    "biernik": "Głubczyce",
+    "narzednik": "Głubczycami"
+  },
+  "slawno": {
+    "mianownik": "Sławno",
+    "dopelniacz": "Sławna",
+    "miejscownik": "Sławnie",
+    "biernik": "Sławno",
+    "narzednik": "Sławnem"
+  },
+  "choszczno": {
+    "mianownik": "Choszczno",
+    "dopelniacz": "Choszczna",
+    "miejscownik": "Choszcznie",
+    "biernik": "Choszczno",
+    "narzednik": "Choszcznem"
+  },
+  "sycow": {
+    "mianownik": "Syców",
+    "dopelniacz": "Sycowa",
+    "miejscownik": "Sycowie",
+    "biernik": "Syców",
+    "narzednik": "Sycowem"
+  },
+  "warka": {
+    "mianownik": "Warka",
+    "dopelniacz": "Warki",
+    "miejscownik": "Warce",
+    "biernik": "Warkę",
+    "narzednik": "Warką"
+  },
+  "parczew": {
+    "mianownik": "Parczew",
+    "dopelniacz": "Parczewa",
+    "miejscownik": "Parczewie",
+    "biernik": "Parczew",
+    "narzednik": "Parczewem"
+  },
+  "wolow": {
+    "mianownik": "Wołów",
+    "dopelniacz": "Wołowa",
+    "miejscownik": "Wołowie",
+    "biernik": "Wołów",
+    "narzednik": "Wołowem"
+  },
+  "proszowice": {
+    "mianownik": "Proszowice",
+    "dopelniacz": "Proszowic",
+    "miejscownik": "Proszowicach",
+    "biernik": "Proszowice",
+    "narzednik": "Proszowicami"
+  },
+  "gryfice": {
+    "mianownik": "Gryfice",
+    "dopelniacz": "Gryfic",
+    "miejscownik": "Gryficach",
+    "biernik": "Gryfice",
+    "narzednik": "Gryficami"
+  },
+  "koluszki": {
+    "mianownik": "Koluszki",
+    "dopelniacz": "Koluszek",
+    "miejscownik": "Koluszkach",
+    "biernik": "Koluszki",
+    "narzednik": "Koluszkami"
+  },
+  "lapy": {
+    "mianownik": "Łapy",
+    "dopelniacz": "Łap",
+    "miejscownik": "Łapach",
+    "biernik": "Łapy",
+    "narzednik": "Łapami"
+  },
+  "janow-lubelski": {
+    "mianownik": "Janów Lubelski",
+    "dopelniacz": "Janowa Lubelskiego",
+    "miejscownik": "Janowie Lubelskim",
+    "biernik": "Janów Lubelski",
+    "narzednik": "Janowem Lubelskim"
+  },
+  "kostrzyn": {
+    "mianownik": "Kostrzyn",
+    "dopelniacz": "Kostrzyna",
+    "miejscownik": "Kostrzynie",
+    "biernik": "Kostrzyn",
+    "narzednik": "Kostrzynem"
+  },
+  "dabrowa-tarnowska": {
+    "mianownik": "Dąbrowa Tarnowska",
+    "dopelniacz": "Dąbrowy Tarnowskiej",
+    "miejscownik": "Dąbrowie Tarnowskiej",
+    "biernik": "Dąbrowę Tarnowską",
+    "narzednik": "Dąbrową Tarnowską"
+  },
+  "kozieglowy": {
+    "mianownik": "Koziegłowy",
+    "dopelniacz": "Koziegłów",
+    "miejscownik": "Koziegłowach",
+    "biernik": "Koziegłowy",
+    "narzednik": "Koziegłowami"
+  },
+  "bialobrzegi": {
+    "mianownik": "Białobrzegi",
+    "dopelniacz": "Białobrzegów",
+    "miejscownik": "Białobrzegach",
+    "biernik": "Białobrzegi",
+    "narzednik": "Białobrzegami"
+  },
+  "dobczyce": {
+    "mianownik": "Dobczyce",
+    "dopelniacz": "Dobczyc",
+    "miejscownik": "Dobczycach",
+    "biernik": "Dobczyce",
+    "narzednik": "Dobczycami"
+  },
+  "golub-dobrzyn": {
+    "mianownik": "Golub-Dobrzyń",
+    "dopelniacz": "Golubia-Dobrzynia",
+    "miejscownik": "Golubiu-Dobrzyniu",
+    "biernik": "Golub-Dobrzyń",
+    "narzednik": "Golubiem-Dobrzyniem"
+  },
+  "brwinow": {
+    "mianownik": "Brwinów",
+    "dopelniacz": "Brwinowa",
+    "miejscownik": "Brwinowie",
+    "biernik": "Brwinów",
+    "narzednik": "Brwinowem"
+  },
+  "pyrzyce": {
+    "mianownik": "Pyrzyce",
+    "dopelniacz": "Pyrzyc",
+    "miejscownik": "Pyrzycach",
+    "biernik": "Pyrzyce",
+    "narzednik": "Pyrzycami"
+  },
+  "lidzbark-warminski": {
+    "mianownik": "Lidzbark Warmiński",
+    "dopelniacz": "Lidzbarka Warmińskiego",
+    "miejscownik": "Lidzbarku Warmińskim",
+    "biernik": "Lidzbark Warmiński",
+    "narzednik": "Lidzbarkiem Warmińskim"
+  },
+  "nidzica": {
+    "mianownik": "Nidzica",
+    "dopelniacz": "Nidzicy",
+    "miejscownik": "Nidzicy",
+    "biernik": "Nidzicę",
+    "narzednik": "Nidzicą"
+  },
+  "czarnkow": {
+    "mianownik": "Czarnków",
+    "dopelniacz": "Czarnkowa",
+    "miejscownik": "Czarnkowie",
+    "biernik": "Czarnków",
+    "narzednik": "Czarnkowem"
+  },
+  "wysokie-mazowieckie": {
+    "mianownik": "Wysokie Mazowieckie",
+    "dopelniacz": "Wysokiego Mazowieckiego",
+    "miejscownik": "Wysokiem Mazowieckiem",
+    "biernik": "Wysokie Mazowieckie",
+    "narzednik": "Wysokiem Mazowieckiem"
+  },
+  "morag": {
+    "mianownik": "Morąg",
+    "dopelniacz": "Morąga",
+    "miejscownik": "Morągu",
+    "biernik": "Morąg",
+    "narzednik": "Morągiem"
+  },
+  "opole-lubelskie": {
+    "mianownik": "Opole Lubelskie",
+    "dopelniacz": "Opola Lubelskiego",
+    "miejscownik": "Opolu Lubelskim",
+    "biernik": "Opole Lubelskie",
+    "narzednik": "Opolem Lubelskim"
+  },
+  "solec-kujawski": {
+    "mianownik": "Solec Kujawski",
+    "dopelniacz": "Solca Kujawskiego",
+    "miejscownik": "Solcu Kujawskim",
+    "biernik": "Solec Kujawski",
+    "narzednik": "Solcem Kujawskim"
+  },
+  "pionki": {
+    "mianownik": "Pionki",
+    "dopelniacz": "Pionek",
+    "miejscownik": "Pionkach",
+    "biernik": "Pionki",
+    "narzednik": "Pionkami"
+  },
+  "ledziny": {
+    "mianownik": "Lędziny",
+    "dopelniacz": "Lędzin",
+    "miejscownik": "Lędzinach",
+    "biernik": "Lędziny",
+    "narzednik": "Lędzinami"
+  },
+  "murowana-goslina": {
+    "mianownik": "Murowana Goślina",
+    "dopelniacz": "Murowanej Gośliny",
+    "miejscownik": "Murowanej Goślinie",
+    "biernik": "Murowaną Goślinę",
+    "narzednik": "Murowaną Gośliną"
+  },
+  "rydultowy": {
+    "mianownik": "Rydułtowy",
+    "dopelniacz": "Rydułtów",
+    "miejscownik": "Rydułtowach",
+    "biernik": "Rydułtowy",
+    "narzednik": "Rydułtowami"
+  },
+  "gora": {
+    "mianownik": "Góra",
+    "dopelniacz": "Góry",
+    "miejscownik": "Górze",
+    "biernik": "Górę",
+    "narzednik": "Górą"
+  },
+  "nowe-miasto-lubawskie": {
+    "mianownik": "Nowe Miasto Lubawskie",
+    "dopelniacz": "Nowego Miasta Lubawskiego",
+    "miejscownik": "Nowym Mieście Lubawskim",
+    "biernik": "Nowe Miasto Lubawskie",
+    "narzednik": "Nowym Miastem Lubawskim"
+  },
+  "aleksandrow-kujawski": {
+    "mianownik": "Aleksandrów Kujawski",
+    "dopelniacz": "Aleksandrowa Kujawskiego",
+    "miejscownik": "Aleksandrowie Kujawskim",
+    "biernik": "Aleksandrów Kujawski",
+    "narzednik": "Aleksandrowem Kujawskim"
+  },
+  "koronowo": {
+    "mianownik": "Koronowo",
+    "dopelniacz": "Koronowa",
+    "miejscownik": "Koronowie",
+    "biernik": "Koronowo",
+    "narzednik": "Koronowem"
+  },
+  "braniewo": {
+    "mianownik": "Braniewo",
+    "dopelniacz": "Braniewa",
+    "miejscownik": "Braniewie",
+    "biernik": "Braniewo",
+    "narzednik": "Braniewem"
+  },
+  "zwolen": {
+    "mianownik": "Zwoleń",
+    "dopelniacz": "Zwolenia",
+    "miejscownik": "Zwoleniu",
+    "biernik": "Zwoleń",
+    "narzednik": "Zwoleniem"
+  },
+  "wegrow": {
+    "mianownik": "Węgrów",
+    "dopelniacz": "Węgrowa",
+    "miejscownik": "Węgrowie",
+    "biernik": "Węgrów",
+    "narzednik": "Węgrowem"
+  },
+  "kamien-pomorski": {
+    "mianownik": "Kamień Pomorski",
+    "dopelniacz": "Kamienia Pomorskiego",
+    "miejscownik": "Kamieniu Pomorskim",
+    "biernik": "Kamień Pomorski",
+    "narzednik": "Kamieniem Pomorskim"
+  },
+  "poddebice": {
+    "mianownik": "Poddębice",
+    "dopelniacz": "Poddębic",
+    "miejscownik": "Poddębicach",
+    "biernik": "Poddębice",
+    "narzednik": "Poddębicami"
+  },
+  "pniewy": {
+    "mianownik": "Pniewy",
+    "dopelniacz": "Pniew",
+    "miejscownik": "Pniewach",
+    "biernik": "Pniewy",
+    "narzednik": "Pniewami"
+  },
+  "barlinek": {
+    "mianownik": "Barlinek",
+    "dopelniacz": "Barlinka",
+    "miejscownik": "Barlinku",
+    "biernik": "Barlinek",
+    "narzednik": "Barlinkiem"
+  },
+  "szprotawa": {
+    "mianownik": "Szprotawa",
+    "dopelniacz": "Szprotawy",
+    "miejscownik": "Szprotawie",
+    "biernik": "Szprotawę",
+    "narzednik": "Szprotawą"
+  },
+  "libiaz": {
+    "mianownik": "Libiąż",
+    "dopelniacz": "Libiąża",
+    "miejscownik": "Libiążu",
+    "biernik": "Libiąż",
+    "narzednik": "Libiążem"
+  },
+  "lubawa": {
+    "mianownik": "Lubawa",
+    "dopelniacz": "Lubawy",
+    "miejscownik": "Lubawie",
+    "biernik": "Lubawę",
+    "narzednik": "Lubawą"
+  },
+  "chojnow": {
+    "mianownik": "Chojnów",
+    "dopelniacz": "Chojnowa",
+    "miejscownik": "Chojnowie",
+    "biernik": "Chojnów",
+    "narzednik": "Chojnowem"
+  },
+  "miedzychod": {
+    "mianownik": "Międzychód",
+    "dopelniacz": "Międzychodu",
+    "miejscownik": "Międzychodzie",
+    "biernik": "Międzychód",
+    "narzednik": "Międzychodem"
+  },
+  "karpacz": {
+    "mianownik": "Karpacz",
+    "dopelniacz": "Karpacza",
+    "miejscownik": "Karpaczu",
+    "biernik": "Karpacz",
+    "narzednik": "Karpaczem"
+  },
+  "krosno-odrzanskie": {
+    "mianownik": "Krosno Odrzańskie",
+    "dopelniacz": "Krosna Odrzańskiego",
+    "miejscownik": "Krośnie Odrzańskim",
+    "biernik": "Krosno Odrzańskie",
+    "narzednik": "Krosnem Odrzańskim"
+  },
+  "wlodawa": {
+    "mianownik": "Włodawa",
+    "dopelniacz": "Włodawy",
+    "miejscownik": "Włodawie",
+    "biernik": "Włodawę",
+    "narzednik": "Włodawą"
+  },
+  "biskupiec": {
+    "mianownik": "Biskupiec",
+    "dopelniacz": "Biskupca",
+    "miejscownik": "Biskupcu",
+    "biernik": "Biskupiec",
+    "narzednik": "Biskupcem"
+  },
+  "karczew": {
+    "mianownik": "Karczew",
+    "dopelniacz": "Karczewa",
+    "miejscownik": "Karczewie",
+    "biernik": "Karczew",
+    "narzednik": "Karczewem"
+  },
+  "opalenica": {
+    "mianownik": "Opalenica",
+    "dopelniacz": "Opalenicy",
+    "miejscownik": "Opalenicy",
+    "biernik": "Opalenic",
+    "narzednik": "Opalenic"
+  },
+  "wronki": {
+    "mianownik": "Wronki",
+    "dopelniacz": "Wronek",
+    "miejscownik": "Wronkach",
+    "biernik": "Wronki",
+    "narzednik": "Wronkami"
+  },
+  "wegorzewo": {
+    "mianownik": "Węgorzewo",
+    "dopelniacz": "Węgorzewa",
+    "miejscownik": "Węgorzewie",
+    "biernik": "Węgorzewo",
+    "narzednik": "Węgorzewem"
+  },
+  "szydlowiec": {
+    "mianownik": "Szydłowiec",
+    "dopelniacz": "Szydłowca",
+    "miejscownik": "Szydłowcu",
+    "biernik": "Szydłowiec",
+    "narzednik": "Szydłowcem"
+  },
+  "deblin": {
+    "mianownik": "Dęblin",
+    "dopelniacz": "Dęblina",
+    "miejscownik": "Dęblinie",
+    "biernik": "Dęblin",
+    "narzednik": "Dęblinem"
+  },
+  "oborniki-slaskie": {
+    "mianownik": "Oborniki Śląskie",
+    "dopelniacz": "Obornik Śląskich",
+    "miejscownik": "Obornikach Śląskich",
+    "biernik": "Oborniki Śląskie",
+    "narzednik": "Obornikami Śląskimi"
+  },
+  "szklarska-poreba": {
+    "mianownik": "Szklarska Poręba",
+    "dopelniacz": "Szklarskiej Poręby",
+    "miejscownik": "Szklarskiej Porębie",
+    "biernik": "Szklarską Porębę",
+    "narzednik": "Szklarską Porębą"
+  },
+  "chelmza": {
+    "mianownik": "Chełmża",
+    "dopelniacz": "Chełmży",
+    "miejscownik": "Chełmży",
+    "biernik": "Chełmżę",
+    "narzednik": "Chełmżą"
+  },
+  "goldap": {
+    "mianownik": "Gołdap",
+    "dopelniacz": "Gołdapi",
+    "miejscownik": "Gołdapi",
+    "biernik": "Gołdap",
+    "narzednik": "Gołdapią"
+  },
+  "lazy": {
+    "mianownik": "Łazy",
+    "dopelniacz": "Łaz",
+    "miejscownik": "Łazach",
+    "biernik": "Łazy",
+    "narzednik": "Łazami"
+  },
+  "szubin": {
+    "mianownik": "Szubin",
+    "dopelniacz": "Szubina",
+    "miejscownik": "Szubinie",
+    "biernik": "Szubin",
+    "narzednik": "Szubinem"
+  },
+  "nowy-dwor-gdanski": {
+    "mianownik": "Nowy Dwór Gdański",
+    "dopelniacz": "Nowego Dworu Gdańskiego",
+    "miejscownik": "Nowym Dworze Gdańskim",
+    "biernik": "Nowy Dwór Gdański",
+    "narzednik": "Nowym Dworem Gdańskim"
+  },
+  "strzyzow": {
+    "mianownik": "Strzyżów",
+    "dopelniacz": "Strzyżowa",
+    "miejscownik": "Strzyżowie",
+    "biernik": "Strzyżów",
+    "narzednik": "Strzyżowem"
+  },
+  "drezdenko": {
+    "mianownik": "Drezdenko",
+    "dopelniacz": "Drezdenka",
+    "miejscownik": "Drezdenku",
+    "biernik": "Drezdenko",
+    "narzednik": "Drezdenkiem"
+  },
+  "pobiedziska": {
+    "mianownik": "Pobiedziska",
+    "dopelniacz": "Pobiedzisk",
+    "miejscownik": "Pobiedziskach",
+    "biernik": "Pobiedziska",
+    "narzednik": "Pobiedziskami"
+  },
+  "czersk": {
+    "mianownik": "Czersk",
+    "dopelniacz": "Czerska",
+    "miejscownik": "Czersku",
+    "biernik": "Czersk",
+    "narzednik": "Czerskem"
+  },
+  "kornik": {
+    "mianownik": "Kórnik",
+    "dopelniacz": "Kórnika",
+    "miejscownik": "Kórniku",
+    "biernik": "Kórnik",
+    "narzednik": "Kórnikiem"
+  },
+  "lubsko": {
+    "mianownik": "Lubsko",
+    "dopelniacz": "Lubska",
+    "miejscownik": "Lubsku",
+    "biernik": "Lubsko",
+    "narzednik": "Lubskiem"
+  },
+  "miastko": {
+    "mianownik": "Miastko",
+    "dopelniacz": "Miastka",
+    "miejscownik": "Miastku",
+    "biernik": "Miastko",
+    "narzednik": "Miastkiem"
+  },
+  "stary-sacz": {
+    "mianownik": "Stary Sącz",
+    "dopelniacz": "Starego Sącza",
+    "miejscownik": "Starym Sączu",
+    "biernik": "Stary Sącz",
+    "narzednik": "Starym Sączem"
+  },
+  "brzozow": {
+    "mianownik": "Brzozów",
+    "dopelniacz": "Brzozowa",
+    "miejscownik": "Brzozowie",
+    "biernik": "Brzozów",
+    "narzednik": "Brzozowem"
+  },
+  "miedzyzdroje": {
+    "mianownik": "Międzyzdroje",
+    "dopelniacz": "Międzyzdrojów",
+    "miejscownik": "Międzyzdrojach",
+    "biernik": "Międzyzdroje",
+    "narzednik": "Międzyzdrojami"
+  },
+  "brzeszcze": {
+    "mianownik": "Brzeszcze",
+    "dopelniacz": "Brzeszcz",
+    "miejscownik": "Brzeszczach",
+    "biernik": "Brzeszcze",
+    "narzednik": "Brzeszczami"
+  },
+  "pinczow": {
+    "mianownik": "Pińczów",
+    "dopelniacz": "Pińczowa",
+    "miejscownik": "Pińczowie",
+    "biernik": "Pińczów",
+    "narzednik": "Pińczowem"
+  },
+  "mysliborz": {
+    "mianownik": "Myślibórz",
+    "dopelniacz": "Myśliborza",
+    "miejscownik": "Myśliborzu",
+    "biernik": "Myślibórz",
+    "narzednik": "Myśliborzem"
+  },
+  "zuromin": {
+    "mianownik": "Żuromin",
+    "dopelniacz": "Żuromina",
+    "miejscownik": "Żurominie",
+    "biernik": "Żuromin",
+    "narzednik": "Żurominem"
+  },
+  "katy-wroclawskie": {
+    "mianownik": "Kąty Wrocławskie",
+    "dopelniacz": "Kątów Wrocławskich",
+    "miejscownik": "Kątach Wrocławskich",
+    "biernik": "Kąty Wrocławskie",
+    "narzednik": "Kątami Wrocławskimi"
+  },
+  "ustrzyki-dolne": {
+    "mianownik": "Ustrzyki Dolne",
+    "dopelniacz": "Ustrzyk Dolnych",
+    "miejscownik": "Ustrzykach Dolnych",
+    "biernik": "Ustrzyki Dolne",
+    "narzednik": "Ustrzykami Dolnymi"
+  },
+  "suchy-las": {
+    "mianownik": "Suchy Las",
+    "dopelniacz": "Suchego Lasu",
+    "miejscownik": "Suchym Lesie",
+    "biernik": "Suchy Las",
+    "narzednik": "Suchym Lasem"
+  },
+  "imielin": {
+    "mianownik": "Imielin",
+    "dopelniacz": "Imielina",
+    "miejscownik": "Imielinie",
+    "biernik": "Imielin",
+    "narzednik": "Imielinem"
+  },
+  "rogozno": {
+    "mianownik": "Rogoźno",
+    "dopelniacz": "Rogoźna",
+    "miejscownik": "Rogoźnie",
+    "biernik": "Rogoźno",
+    "narzednik": "Rogoźnem"
+  },
+  "grodkow": {
+    "mianownik": "Grodków",
+    "dopelniacz": "Grodkowa",
+    "miejscownik": "Grodkowie",
+    "biernik": "Grodków",
+    "narzednik": "Grodkowem"
+  },
+  "bogatynia": {
+    "mianownik": "Bogatynia",
+    "dopelniacz": "Bogatyni",
+    "miejscownik": "Bogatyni",
+    "biernik": "Bogatynię",
+    "narzednik": "Bogatynią"
+  },
+  "szczyrk": {
+    "mianownik": "Szczyrk",
+    "dopelniacz": "Szczyrku",
+    "miejscownik": "Szczyrku",
+    "biernik": "Szczyrk",
+    "narzednik": "Szczyrkiem"
+  },
+  "strzelce-krajenskie": {
+    "mianownik": "Strzelce Krajeńskie",
+    "dopelniacz": "Strzelec Krajeńskich",
+    "miejscownik": "Strzelcach Krajeńskich",
+    "biernik": "Strzelce Krajeńskie",
+    "narzednik": "Strzelcami Krajeńskimi"
+  },
+  "glucholazy": {
+    "mianownik": "Głuchołazy",
+    "dopelniacz": "Głuchołaz",
+    "miejscownik": "Głuchołazach",
+    "biernik": "Głuchołazy",
+    "narzednik": "Głuchołazami"
+  },
+  "sedziszow": {
+    "mianownik": "Sędziszów Małopolski",
+    "dopelniacz": "Sędziszowa Małopolskiego",
+    "miejscownik": "Sędziszowie Małopolskim",
+    "biernik": "Sędziszów Małopolski",
+    "narzednik": "Sędziszowem Małopolskim"
+  },
+  "brzeg-dolny": {
+    "mianownik": "Brzeg Dolny",
+    "dopelniacz": "Brzegu Dolnego",
+    "miejscownik": "Brzegu Dolnym",
+    "biernik": "Brzeg Dolny",
+    "narzednik": "Brzegiem Dolnym"
+  },
+  "pajeczno": {
+    "mianownik": "Pajęczno",
+    "dopelniacz": "Pajęczna",
+    "miejscownik": "Pajęcznie",
+    "biernik": "Pajęczno",
+    "narzednik": "Pajęcznem"
+  },
+  "paslek": {
+    "mianownik": "Pasłęk",
+    "dopelniacz": "Pasłęka",
+    "miejscownik": "Pasłęku",
+    "biernik": "Pasłęk",
+    "narzednik": "Pasłękiem"
+  },
+  "steszew": {
+    "mianownik": "Stęszew",
+    "dopelniacz": "Stęszewa",
+    "miejscownik": "Stęszewie",
+    "biernik": "Stęszew",
+    "narzednik": "Stęszewem"
+  },
+  "nasielsk": {
+    "mianownik": "Nasielsk",
+    "dopelniacz": "Nasielska",
+    "miejscownik": "Nasielsku",
+    "biernik": "Nasielsk",
+    "narzednik": "Nasielskim"
+  },
+  "lesko": {
+    "mianownik": "Lesko",
+    "dopelniacz": "Leska",
+    "miejscownik": "Lesku",
+    "biernik": "Lesko",
+    "narzednik": "Leskiem"
+  },
+  "drawsko-pomorskie": {
+    "mianownik": "Drawsko Pomorskie",
+    "dopelniacz": "Drawska Pomorskiego",
+    "miejscownik": "Drawsku Pomorskim",
+    "biernik": "Drawsko Pomorskie",
+    "narzednik": "Drawskiem Pomorskim"
+  },
+  "sulecin": {
+    "mianownik": "Sulęcin",
+    "dopelniacz": "Sulęcina",
+    "miejscownik": "Sulęcinie",
+    "biernik": "Sulęcin",
+    "narzednik": "Sulęcinem"
+  },
+  "makow-podhalanski": {
+    "mianownik": "Maków Podhalański",
+    "dopelniacz": "Makowa Podhalańskiego",
+    "miejscownik": "Makowie Podhalańskim",
+    "biernik": "Maków Podhalański",
+    "narzednik": "Makowem Podhalańskim"
+  },
+  "leba": {
+    "mianownik": "Łeba",
+    "dopelniacz": "Łeby",
+    "miejscownik": "Łebie",
+    "biernik": "Łebę",
+    "narzednik": "Łebą"
+  },
+  "skwierzyna": {
+    "mianownik": "Skwierzyna",
+    "dopelniacz": "Skwierzyny",
+    "miejscownik": "Skwierzynie",
+    "biernik": "Skwierzynę",
+    "narzednik": "Skwierzyną"
+  },
+  "monki": {
+    "mianownik": "Mońki",
+    "dopelniacz": "Moniek",
+    "miejscownik": "Mońkach",
+    "biernik": "Mońki",
+    "narzednik": "Mońkami"
+  },
+  "zlocieniec": {
+    "mianownik": "Złocieniec",
+    "dopelniacz": "Złocieńca",
+    "miejscownik": "Złocieńcu",
+    "biernik": "Złocieniec",
+    "narzednik": "Złocieńcem"
+  },
+  "makow-mazowiecki": {
+    "mianownik": "Maków Mazowiecki",
+    "dopelniacz": "Makowa Mazowieckiego",
+    "miejscownik": "Makowie Mazowieckim",
+    "biernik": "Maków Mazowiecki",
+    "narzednik": "Makowem Mazowieckim"
+  },
+  "kolno": {
+    "mianownik": "Kolno",
+    "dopelniacz": "Kolna",
+    "miejscownik": "Kolnie",
+    "biernik": "Kolno",
+    "narzednik": "Kolnem"
+  },
+  "przezmierowo": {
+    "mianownik": "Przeźmierowo",
+    "dopelniacz": "Przeźmierowa",
+    "miejscownik": "Przeźmierowie",
+    "biernik": "Przeźmierowo",
+    "narzednik": "Przeźmierowem"
+  },
+  "buk": {
+    "mianownik": "Buk",
+    "dopelniacz": "Buku",
+    "miejscownik": "Buku",
+    "biernik": "Buk",
+    "narzednik": "Bukiem"
+  },
+  "opatow": {
+    "mianownik": "Opatów",
+    "dopelniacz": "Opatowa",
+    "miejscownik": "Opatowie",
+    "biernik": "Opatów",
+    "narzednik": "Opatowem"
+  },
+  "serock": {
+    "mianownik": "Serock",
+    "dopelniacz": "Serocka",
+    "miejscownik": "Serocku",
+    "biernik": "Serock",
+    "narzednik": "Serockiem"
+  },
+  "sztum": {
+    "mianownik": "Sztum",
+    "dopelniacz": "Sztumu",
+    "miejscownik": "Sztumie",
+    "biernik": "Sztum",
+    "narzednik": "Sztumem"
+  },
+  "klodawa": {
+    "mianownik": "Kłodawa",
+    "dopelniacz": "Kłodawy",
+    "miejscownik": "Kłodawie",
+    "biernik": "Kłodawę",
+    "narzednik": "Kłodawą"
+  },
+  "lobez": {
+    "mianownik": "Łobez",
+    "dopelniacz": "Łobza",
+    "miejscownik": "Łobzie",
+    "biernik": "Łobez",
+    "narzednik": "Łobzem"
+  },
+  "siewierz": {
+    "mianownik": "Siewierz",
+    "dopelniacz": "Siewierza",
+    "miejscownik": "Siewierzu",
+    "biernik": "Siewierz",
+    "narzednik": "Siewierzem"
+  },
+  "piaski": {
+    "mianownik": "Piaski",
+    "dopelniacz": "Piasek",
+    "miejscownik": "Piaskach",
+    "biernik": "Piaski",
+    "narzednik": "Piaskami"
+  },
+  "tuchow": {
+    "mianownik": "Tuchów",
+    "dopelniacz": "Tuchowa",
+    "miejscownik": "Tuchowie",
+    "biernik": "Tuchów",
+    "narzednik": "Tuchowem"
+  },
+  "glogowek": {
+    "mianownik": "Głogówek",
+    "dopelniacz": "Głogówka",
+    "miejscownik": "Głogówku",
+    "biernik": "Głogówek",
+    "narzednik": "Głogówkiem"
+  },
+  "sulkowice": {
+    "mianownik": "Sułkowice",
+    "dopelniacz": "Sułkowic",
+    "miejscownik": "Sułkowicach",
+    "biernik": "Sułkowice",
+    "narzednik": "Sułkowicami"
+  },
+  "pszow": {
+    "mianownik": "Pszów",
+    "dopelniacz": "Pszowa",
+    "miejscownik": "Pszowie",
+    "biernik": "Pszów",
+    "narzednik": "Pszowem"
+  },
+  "twardogora": {
+    "mianownik": "Twardogóra",
+    "dopelniacz": "Twardogóry",
+    "miejscownik": "Twardogórze",
+    "biernik": "Twardogórę",
+    "narzednik": "Twardogórą"
+  },
+  "tuszyn": {
+    "mianownik": "Tuszyn",
+    "dopelniacz": "Tuszyna",
+    "miejscownik": "Tuszynie",
+    "biernik": "Tuszyn",
+    "narzednik": "Tuszynem"
+  },
+  "jordanow": {
+    "mianownik": "Jordanów",
+    "dopelniacz": "Jordanowa",
+    "miejscownik": "Jordanowie",
+    "biernik": "Jordanów",
+    "narzednik": "Jordanowem"
+  },
+  "szczawnica": {
+    "mianownik": "Szczawnica",
+    "dopelniacz": "Szczawnicy",
+    "miejscownik": "Szczawnicy",
+    "biernik": "Szczawnicę",
+    "narzednik": "Szczawnicą"
+  },
+  "dobre-miasto": {
+    "mianownik": "Dobre Miasto",
+    "dopelniacz": "Dobrego Miasta",
+    "miejscownik": "Dobrym Mieście",
+    "biernik": "Dobre Miasto",
+    "narzednik": "Dobrym Miastem"
+  },
+  "lwowek-slaski": {
+    "mianownik": "Lwówek Śląski",
+    "dopelniacz": "Lwówka Śląskiego",
+    "miejscownik": "Lwówku Śląskim",
+    "biernik": "Lwówek Śląski",
+    "narzednik": "Lwówkiem Śląskim"
+  },
+  "chojna": {
+    "mianownik": "Chojna",
+    "dopelniacz": "Chojny",
+    "miejscownik": "Chojnie",
+    "biernik": "Chojnę",
+    "narzednik": "Chojną"
+  },
+  "losice": {
+    "mianownik": "Łosice",
+    "dopelniacz": "Łosic",
+    "miejscownik": "Łosicach",
+    "biernik": "Łosice",
+    "narzednik": "Łosicami"
+  },
+  "trzebiatow": {
+    "mianownik": "Trzebiatów",
+    "dopelniacz": "Trzebiatowa",
+    "miejscownik": "Trzebiatowie",
+    "biernik": "Trzebiatów",
+    "narzednik": "Trzebiatowem"
+  },
+  "kazimierza-wielka": {
+    "mianownik": "Kazimierza Wielka",
+    "dopelniacz": "Kazimierzy Wielkiej",
+    "miejscownik": "Kazimierzy Wielkiej",
+    "biernik": "Kazimierzę Wielką",
+    "narzednik": "Kazimierzą Wielką"
+  },
+  "praszka": {
+    "mianownik": "Praszka",
+    "dopelniacz": "Praszki",
+    "miejscownik": "Praszce",
+    "biernik": "Praszkę",
+    "narzednik": "Praszką"
+  },
+  "bystrzyca-klodzka": {
+    "mianownik": "Bystrzyca Kłodzka",
+    "dopelniacz": "Bystrzycy Kłodzkiej",
+    "miejscownik": "Bystrzycy Kłodzkiej",
+    "biernik": "Bystrzycę Kłodzką",
+    "narzednik": "Bystrzycą Kłodzką"
+  },
+  "niemodlin": {
+    "mianownik": "Niemodlin",
+    "dopelniacz": "Niemodlina",
+    "miejscownik": "Niemodlinie",
+    "biernik": "Niemodlin",
+    "narzednik": "Niemodlinem"
+  },
+  "polanica-zdroj": {
+    "mianownik": "Polanica-Zdrój",
+    "dopelniacz": "Polanicy-Zdroju",
+    "miejscownik": "Polanicy-Zdroju",
+    "biernik": "Plankę-Zdrój",
+    "narzednik": "Polanicą-Zdrojem"
+  },
+  "wasilkow": {
+    "mianownik": "Wasilków",
+    "dopelniacz": "Wasilkowa",
+    "miejscownik": "Wasilkowie",
+    "biernik": "Wasilków",
+    "narzednik": "Wasilkowem"
+  },
+  "mszczonow": {
+    "mianownik": "Mszczonów",
+    "dopelniacz": "Mszczonowa",
+    "miejscownik": "Mszczonowie",
+    "biernik": "Mszczonów",
+    "narzednik": "Mszczonowem"
+  },
+  "kruszwica": {
+    "mianownik": "Kruszwica",
+    "dopelniacz": "Kruszwicy",
+    "miejscownik": "Kruszwicy",
+    "biernik": "Kruszwicę",
+    "narzednik": "Kruszwicą"
+  },
+  "radziejow": {
+    "mianownik": "Radziejów",
+    "dopelniacz": "Radziejowa",
+    "miejscownik": "Radziejowie",
+    "biernik": "Radziejów",
+    "narzednik": "Radziejowem"
+  },
+  "lipsko": {
+    "mianownik": "Lipsko",
+    "dopelniacz": "Lipska",
+    "miejscownik": "Lipsku",
+    "biernik": "Lipsko",
+    "narzednik": "Lipskiem"
+  },
+  "zbaszyn": {
+    "mianownik": "Zbąszyń",
+    "dopelniacz": "Zbąszynia",
+    "miejscownik": "Zbąszyniu",
+    "biernik": "Zbąszyń",
+    "narzednik": "Zbąszyniem"
+  },
+  "polczyn-zdroj": {
+    "mianownik": "Połczyn-Zdrój",
+    "dopelniacz": "Połczyna-Zdroju",
+    "miejscownik": "Połczynie-Zdroju",
+    "biernik": "Połczyn-Zdrój",
+    "narzednik": "Połczynem-Zdrojem"
+  },
+  "siechnice": {
+    "mianownik": "Siechnice",
+    "dopelniacz": "Siechnic",
+    "miejscownik": "Siechnicach",
+    "biernik": "Siechnice",
+    "narzednik": "Siechnicami"
+  },
+  "ozimek": {
+    "mianownik": "Ozimek",
+    "dopelniacz": "Ozimka",
+    "miejscownik": "Ozimku",
+    "biernik": "Ozimek",
+    "narzednik": "Ozimkiem"
+  },
+  "blachownia": {
+    "mianownik": "Blachownia",
+    "dopelniacz": "Blachowni",
+    "miejscownik": "Blachowni",
+    "biernik": "Blachownię",
+    "narzednik": "Blachownią"
+  },
+  "slesin": {
+    "mianownik": "Ślesin",
+    "dopelniacz": "Ślesina",
+    "miejscownik": "Ślesinie",
+    "biernik": "Ślesin",
+    "narzednik": "Ślesinem"
+  },
+  "poniatowa": {
+    "mianownik": "Poniatowa",
+    "dopelniacz": "Poniatowej",
+    "miejscownik": "Poniatowej",
+    "biernik": "Poniatową",
+    "narzednik": "Poniatową"
+  },
+  "krzepice": {
+    "mianownik": "Krzepice",
+    "dopelniacz": "Krzepic",
+    "miejscownik": "Krzepicach",
+    "biernik": "Krzepice",
+    "narzednik": "Krzepicami"
+  },
+  "kozuchow": {
+    "mianownik": "Kożuchów",
+    "dopelniacz": "Kożuchowa",
+    "miejscownik": "Kożuchowie",
+    "biernik": "Kożuchów",
+    "narzednik": "Kożuchowem"
+  },
+  "lochow": {
+    "mianownik": "Łochów",
+    "dopelniacz": "Łochowa",
+    "miejscownik": "Łochowie",
+    "biernik": "Łochów",
+    "narzednik": "Łochowem"
+  },
+  "belzyce": {
+    "mianownik": "Bełżyce",
+    "dopelniacz": "Bełżyc",
+    "miejscownik": "Bełżycach",
+    "biernik": "Bełżyce",
+    "narzednik": "Bełżycami"
+  },
+  "tarczyn": {
+    "mianownik": "Tarczyn",
+    "dopelniacz": "Tarczyna",
+    "miejscownik": "Tarczynie",
+    "biernik": "Tarczyn",
+    "narzednik": "Tarczynem"
+  },
+  "gniewkowo": {
+    "mianownik": "Gniewkowo",
+    "dopelniacz": "Gniewkowa",
+    "miejscownik": "Gniewkowie",
+    "biernik": "Gniewkowo",
+    "narzednik": "Gniewkowem"
+  },
+  "sobotka": {
+    "mianownik": "Sobótka",
+    "dopelniacz": "Sobótki",
+    "miejscownik": "Sobótce",
+    "biernik": "Sobótkę",
+    "narzednik": "Sobótką"
+  },
+  "przysucha": {
+    "mianownik": "Przysucha",
+    "dopelniacz": "Przysuchy",
+    "miejscownik": "Przysusze",
+    "biernik": "Przysuchę",
+    "narzednik": "Przysuchą"
+  },
+  "raszyn": {
+    "mianownik": "Raszyn",
+    "dopelniacz": "Raszyna",
+    "miejscownik": "Raszynie",
+    "biernik": "Raszyn",
+    "narzednik": "Raszynem"
+  },
+  "komorniki": {
+    "mianownik": "Komorniki",
+    "dopelniacz": "Komornik",
+    "miejscownik": "Komornikach",
+    "biernik": "Komorniki",
+    "narzednik": "Komornik"
+  },
+  "grybow": {
+    "mianownik": "Grybów",
+    "dopelniacz": "Grybowa",
+    "miejscownik": "Grybowie",
+    "biernik": "Grybów",
+    "narzednik": "Grybowem"
+  },
+  "mikolajki": {
+    "mianownik": "Mikołajki",
+    "dopelniacz": "Mikołajek",
+    "miejscownik": "Mikołajkach",
+    "biernik": "Mikołajki",
+    "narzednik": "Mikołajkami"
+  },
+  "zarki": {
+    "mianownik": "Żarki",
+    "dopelniacz": "Żarek",
+    "miejscownik": "Żarkach",
+    "biernik": "Żarki",
+    "narzednik": "Żarkami"
+  },
+  "nowa-deba": {
+    "mianownik": "Nowa Dęba",
+    "dopelniacz": "Nowej Dęby",
+    "miejscownik": "Nowej Dębie",
+    "biernik": "Nową Dębę",
+    "narzednik": "Nową Dębą"
+  },
+  "odolanow": {
+    "mianownik": "Odolanów",
+    "dopelniacz": "Odolanowa",
+    "miejscownik": "Odolanowie",
+    "biernik": "Odolanów",
+    "narzednik": "Odolanowem"
+  },
+  "kozmin-wielkopolski": {
+    "mianownik": "Koźmin Wielkopolski",
+    "dopelniacz": "Koźmina Wielkopolskiego",
+    "miejscownik": "Koźminie Wielkopolskim",
+    "biernik": "Koźmin Wielkopolski",
+    "narzednik": "Koźminem Wielkopolskim"
+  },
+  "strykow": {
+    "mianownik": "Stryków",
+    "dopelniacz": "Strykowa",
+    "miejscownik": "Strykowie",
+    "biernik": "Stryków",
+    "narzednik": "Strykowem"
+  },
+  "zator": {
+    "mianownik": "Zator",
+    "dopelniacz": "Zatora",
+    "miejscownik": "Zatorze",
+    "biernik": "Zator",
+    "narzednik": "Zatorem"
+  },
+  "tarnow-opolski": {
+    "mianownik": "Tarnów Opolski",
+    "dopelniacz": "Tarnowa Opolskiego",
+    "miejscownik": "Tarnowie Opolskim",
+    "biernik": "Tarnów Opolski",
+    "narzednik": "Tarnowem Opolskim"
+  },
+  "nowe-miasto-nad-pilica": {
+    "mianownik": "Nowe Miasto nad Pilicą",
+    "dopelniacz": "Nowego Miasta nad Pilicą",
+    "miejscownik": "Nowym Mieście nad Pilicą",
+    "biernik": "Nowe Miasto nad Pilicą",
+    "narzednik": "Nowym Miastem nad Pilicą"
+  },
+  "kleszczow": {
+    "mianownik": "Kleszczów",
+    "dopelniacz": "Kleszczowa",
+    "miejscownik": "Kleszczowie",
+    "biernik": "Kleszczów",
+    "narzednik": "Kleszczowem"
+  },
+  "zloczew": {
+    "mianownik": "Złoczew",
+    "dopelniacz": "Złoczewa",
+    "miejscownik": "Złoczewie",
+    "biernik": "Złoczew",
+    "narzednik": "Złoczewem"
+  },
+  "grodek-nad-dunajcem": {
+    "mianownik": "Gródek nad Dunajcem",
+    "dopelniacz": "Gródka nad Dunajcem",
+    "miejscownik": "Gródku nad Dunajcem",
+    "biernik": "Gródek nad Dunajcem",
+    "narzednik": "Gródkiem nad Dunajcem"
+  },
+  "swiecie": {
+    "mianownik": "Świecie",
+    "dopelniacz": "Świecia",
+    "miejscownik": "Świeciu",
+    "biernik": "Świecie",
+    "narzednik": "Świeciem"
+  },
+  "jablonowo-pomorskie": {
+    "mianownik": "Jabłonowo Pomorskie",
+    "dopelniacz": "Jabłonowa Pomorskiego",
+    "miejscownik": "Jabłonowie Pomorskim",
+    "biernik": "Jabłonowo Pomorskie",
+    "narzednik": "Jabłonowem Pomorskim"
+  },
+  "mielno": {
+    "mianownik": "Mielno",
+    "dopelniacz": "Mielna",
+    "miejscownik": "Mielnie",
+    "biernik": "Mielno",
+    "narzednik": "Mielnem"
+  },
+  "jastarnia": {
+    "mianownik": "Jastarnia",
+    "dopelniacz": "Jastarni",
+    "miejscownik": "Jastarni",
+    "biernik": "Jastarnię",
+    "narzednik": "Jastarnią"
+  },
+  "jaroslawiec": {
+    "mianownik": "Jarosławiec",
+    "dopelniacz": "Jarosławca",
+    "miejscownik": "Jarosławcu",
+    "biernik": "Jarosławiec",
+    "narzednik": "Jarosławcem"
+  },
+  "zielonki": {
+    "mianownik": "Zielonki",
+    "dopelniacz": "Zielonek",
+    "miejscownik": "Zielonkach",
+    "biernik": "Zielonki",
+    "narzednik": "Zielonkami"
+  },
+  "tluszcz": {
+    "mianownik": "Tłuszcz",
+    "dopelniacz": "Tłuszcza",
+    "miejscownik": "Tłuszczu",
+    "biernik": "Tłuszcz",
+    "narzednik": "Tłuszczem"
+  },
+  "drohiczyn": {
+    "mianownik": "Drohiczyn",
+    "dopelniacz": "Drohiczyna",
+    "miejscownik": "Drohiczynie",
+    "biernik": "Drohiczyn",
+    "narzednik": "Drohiczynem"
+  },
+  "krynica-morska": {
+    "mianownik": "Krynica Morska",
+    "dopelniacz": "Krynicy Morskiej",
+    "miejscownik": "Krynicy Morskiej",
+    "biernik": "Krynicę Morską",
+    "narzednik": "Krynicą Morską"
+  },
+  "slawa": {
+    "mianownik": "Sława",
+    "dopelniacz": "Sławy",
+    "miejscownik": "Sławie",
+    "biernik": "Sławę",
+    "narzednik": "Sławą"
+  },
+  "dziwnow": {
+    "mianownik": "Dziwnów",
+    "dopelniacz": "Dziwnowa",
+    "miejscownik": "Dziwnowie",
+    "biernik": "Dziwnów",
+    "narzednik": "Dziwnowem"
+  },
+  "skala": {
+    "mianownik": "Skała",
+    "dopelniacz": "Skały",
+    "miejscownik": "Skale",
+    "biernik": "Skałę",
+    "narzednik": "Skałą"
+  },
+  "alwernia": {
+    "mianownik": "Alwernia",
+    "dopelniacz": "Alwerni",
+    "miejscownik": "Alwerni",
+    "biernik": "Alwernię",
+    "narzednik": "Alwernią"
+  },
+  "daleszyce": {
+    "mianownik": "Daleszyce",
+    "dopelniacz": "Daleszyc",
+    "miejscownik": "Daleszycach",
+    "biernik": "Daleszyce",
+    "narzednik": "Daleszycami"
+  },
+  "swieradow-zdroj": {
+    "mianownik": "Świeradów-Zdrój",
+    "dopelniacz": "Świeradowa-Zdroju",
+    "miejscownik": "Świeradowie-Zdroju",
+    "biernik": "Świeradów-Zdrój",
+    "narzednik": "Świeradowem-Zdrojem"
+  },
+  "wasewo": {
+    "mianownik": "Wąsewo",
+    "dopelniacz": "Wąsewa",
+    "miejscownik": "Wąsewie",
+    "biernik": "Wąsewo",
+    "narzednik": "Wąsewem"
+  },
+  "rychwal": {
+    "mianownik": "Rychwał",
+    "dopelniacz": "Rychwała",
+    "miejscownik": "Rychwale",
+    "biernik": "Rychwał",
+    "narzednik": "Rychwałem"
+  },
+  "osielsko": {
+    "mianownik": "Osielsko",
+    "dopelniacz": "Osielska",
+    "miejscownik": "Osielsku",
+    "biernik": "Osielsko",
+    "narzednik": "Osielskiem"
+  },
+  "krasnobrod": {
+    "mianownik": "Krasnobród",
+    "dopelniacz": "Krasnobrodu",
+    "miejscownik": "Krasnobrodzie",
+    "biernik": "Krasnobród",
+    "narzednik": "Krasnobrodem"
+  },
+  "krosniewice": {
+    "mianownik": "Krośniewice",
+    "dopelniacz": "Krośniewic",
+    "miejscownik": "Krośniewicach",
+    "biernik": "Krośniewice",
+    "narzednik": "Krośniewicami"
+  },
+  "pomiechowek": {
+    "mianownik": "Pomiechówek",
+    "dopelniacz": "Pomiechówka",
+    "miejscownik": "Pomiechówku",
+    "biernik": "Pomiechówek",
+    "narzednik": "Pomiechówkiem"
+  },
+  "ruciane-nida": {
+    "mianownik": "Ruciane-Nida",
+    "dopelniacz": "Rucianego-Nidy",
+    "miejscownik": "Rucianem-Nidzie",
+    "biernik": "Ruciane-Nidę",
+    "narzednik": "Rucianem-Nidą"
+  },
+  "slomniki": {
+    "mianownik": "Słomniki",
+    "dopelniacz": "Słomnik",
+    "miejscownik": "Słomnikach",
+    "biernik": "Słomniki",
+    "narzednik": "Słomnikami"
+  },
+  "olsztynek": {
+    "mianownik": "Olsztynek",
+    "dopelniacz": "Olsztynka",
+    "miejscownik": "Olsztynku",
+    "biernik": "Olsztynek",
+    "narzednik": "Olsztynkiem"
+  },
+  "rynarzewo": {
+    "mianownik": "Rynarzewo",
+    "dopelniacz": "Rynarzewa",
+    "miejscownik": "Rynarzewie",
+    "biernik": "Rynarzewo",
+    "narzednik": "Rynarzewem"
+  },
+  "psary": {
+    "mianownik": "Psary",
+    "dopelniacz": "Psar",
+    "miejscownik": "Psarach",
+    "biernik": "Psary",
+    "narzednik": "Psarami"
+  },
+  "naleczow": {
+    "mianownik": "Nałęczów",
+    "dopelniacz": "Nałęczowa",
+    "miejscownik": "Nałęczowie",
+    "biernik": "Nałęczów",
+    "narzednik": "Nałęczowem"
+  },
+  "banino": {
+    "mianownik": "Banino",
+    "dopelniacz": "Banina",
+    "miejscownik": "Baninie",
+    "biernik": "Banino",
+    "narzednik": "Baninem"
+  },
+  "skarszewy": {
+    "mianownik": "Skarszewy",
+    "dopelniacz": "Skarszew",
+    "miejscownik": "Skarszewach",
+    "biernik": "Skarszewy",
+    "narzednik": "Skarszewami"
+  },
+  "nadarzyn": {
+    "mianownik": "Nadarzyn",
+    "dopelniacz": "Nadarzyna",
+    "miejscownik": "Nadarzynie",
+    "biernik": "Nadarzyn",
+    "narzednik": "Nadarzynem"
+  },
+  "wolin": {
+    "mianownik": "Wolin",
+    "dopelniacz": "Wolina",
+    "miejscownik": "Wolinie",
+    "biernik": "Wolin",
+    "narzednik": "Wolinem"
+  },
+  "prabuty": {
+    "mianownik": "Prabuty",
+    "dopelniacz": "Prabut",
+    "miejscownik": "Prabutach",
+    "biernik": "Prabuty",
+    "narzednik": "Prabutami"
+  },
+  "wielen": {
+    "mianownik": "Wieleń",
+    "dopelniacz": "Wielenia",
+    "miejscownik": "Wieleniu",
+    "biernik": "Wieleń",
+    "narzednik": "Wieleniem"
+  },
+  "nieporet": {
+    "mianownik": "Nieporęt",
+    "dopelniacz": "Nieporętu",
+    "miejscownik": "Nieporęcie",
+    "biernik": "Nieporęt",
+    "narzednik": "Nieporętem"
+  },
+  "janki": {
+    "mianownik": "Janki",
+    "dopelniacz": "Janek",
+    "miejscownik": "Jankach",
+    "biernik": "Janki",
+    "narzednik": "Jankami"
+  },
+  "zawadzkie": {
+    "mianownik": "Zawadzkie",
+    "dopelniacz": "Zawadzkiego",
+    "miejscownik": "Zawadzkiem",
+    "biernik": "Zawadzkie",
+    "narzednik": "Zawadzkiem"
+  },
+  "bielany-wroclawskie": {
+    "mianownik": "Bielany Wrocławskie",
+    "dopelniacz": "Bielan Wrocławskich",
+    "miejscownik": "Bielanach Wrocławskich",
+    "biernik": "Bielany Wrocławskie",
+    "narzednik": "Bielanami Wrocławskimi"
+  },
+  "radkow": {
+    "mianownik": "Radków",
+    "dopelniacz": "Radkowa",
+    "miejscownik": "Radkowie",
+    "biernik": "Radków",
+    "narzednik": "Radkowem"
+  },
+  "tarnowo-podgorne": {
+    "mianownik": "Tarnowo Podgórne",
+    "dopelniacz": "Tarnowa Podgórnego",
+    "miejscownik": "Tarnowie Podgórnym",
+    "biernik": "Tarnowo Podgórne",
+    "narzednik": "Tarnowem Podgórnym"
+  },
+  "kaluszyn": {
+    "mianownik": "Kałuszyn",
+    "dopelniacz": "Kałuszyna",
+    "miejscownik": "Kałuszynie",
+    "biernik": "Kałuszyn",
+    "narzednik": "Kałuszynem"
+  }
+}
